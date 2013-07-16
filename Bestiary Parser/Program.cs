@@ -23,6 +23,7 @@ namespace Bestiary_Parser
             doc.Load(new StreamReader(FILE_PATH));
 
             File.Delete(LOG_FILE_PATH);
+            File.Delete(OUTPUT_PATH);
 
             entries = new List<BestiaryEntry>();
 
@@ -143,13 +144,13 @@ namespace Bestiary_Parser
                 entry.HitPoints = lines[3].Split().Last();
                 entry.Speed = lines[4].Split()[1];
                 entry.Senses = lines[5];
-                entry.Strength = lines[6].Split().Last();
-                entry.Dexterity = lines[7].Split().Last();
-                entry.Constitution = lines[8].Split().Last();
-                entry.Intelligence = lines[9].Split().Last();
-                entry.Wisdom = lines[10].Split().Last();
-                entry.Charisma = lines[11].Split().Last();
-                entry.Alignment = lines[12].Split().Last();
+                entry.Strength = lines[6].Split().Skip(1).First();
+                entry.Dexterity = lines[7].Split().Skip(1).First();
+                entry.Constitution = lines[8].Split().Skip(1).First();
+                entry.Intelligence = lines[9].Split().Skip(1).First();
+                entry.Wisdom = lines[10].Split().Skip(1).First();
+                entry.Charisma = lines[11].Split().Skip(1).First();
+                entry.Alignment = lines[12].Split().Skip(1).First();
                 entry.Languages = lines[13];
 
                 entry.Traits =
