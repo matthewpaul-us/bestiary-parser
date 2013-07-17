@@ -92,6 +92,20 @@ namespace Bestiary_Parser
                     // Format is "[name]: [value]"
                     foreach (PropertyInfo property in entryType.GetProperties())
                     {
+                        // Print the lists
+                        if (property.PropertyType.IsAssignableFrom(typeof(List<string>)))
+                        {
+                            var list = (List<string>)property.GetValue(entry);
+                            output.WriteLine(property.Name);
+
+                            foreach (string item in list)
+                            {
+                                output.WriteLine("    {0}", item);
+                            }
+
+                            // Don't re-print the lists
+                            continue;
+                        }
                         if (property.Name != "Text")
                         {
                             output.WriteLine("{0}: {1}", property.Name, property.GetValue(entry));
