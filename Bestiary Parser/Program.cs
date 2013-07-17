@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Text;
 using System.Text.RegularExpressions;
 
 namespace Bestiary_Parser
@@ -336,9 +337,9 @@ namespace Bestiary_Parser
                 entry.Size = entry.SizeType.Split().First();
                 entry.Type = entry.SizeType.Split().Last();
                 entry.ArmorClass = lines[2].Split().Last();
-                entry.HitPoints = lines[3].Split().Last();
+                entry.HitPoints = lines[3].Split().Skip(2).First();
                 entry.Speed = lines[4].Split()[1];
-                entry.Senses = lines[5];
+                entry.Senses = JoinStrings(lines[5].Split().Skip(1));
                 entry.Strength = lines[6].Split().Skip(1).First();
                 entry.Dexterity = lines[7].Split().Skip(1).First();
                 entry.Constitution = lines[8].Split().Skip(1).First();
@@ -346,7 +347,7 @@ namespace Bestiary_Parser
                 entry.Wisdom = lines[10].Split().Skip(1).First();
                 entry.Charisma = lines[11].Split().Skip(1).First();
                 entry.Alignment = lines[12].Split().Skip(1).First();
-                entry.Languages = lines[13];
+                entry.Languages = JoinStrings(lines[13].Split().Skip(1));
 
                 // LINQ Shenanigans. Get all the strings in between TRAITS and ACTION, making sure to stop before ENCOUNTER BUILDING.
                 entry.Traits =
@@ -394,6 +395,18 @@ namespace Bestiary_Parser
                 logFile.WriteLine(string.Format("========{0}========", errCount++));
             }
             return entry;
+        }
+
+        public static string JoinStrings(IEnumerable<string> strings)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            foreach (string item in strings)
+            {
+                sb.Append(item + " ");
+            }
+
+            return sb.ToString();
         }
     }
 }
