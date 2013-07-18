@@ -228,7 +228,7 @@ namespace Bestiary_Parser
                 entry.SizeType = lines[1];
                 entry.Size = entry.SizeType.Split().First();
                 entry.Type = entry.SizeType.Split().Last();
-                entry.ArmorClass = lines[2].Split().Last();
+                entry.ArmorClass = JoinStrings(lines[2].Split().Skip(2));
                 entry.HitPoints = lines[3].Split().Skip(2).First();
                 entry.Speed = lines[4].Split()[1];
                 entry.Senses = JoinStrings(lines[5].Split().Skip(1));
