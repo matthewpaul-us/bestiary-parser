@@ -70,8 +70,16 @@ namespace Bestiary_Parser
             // Log all the entries to the log file
             LogEntries();
 
+            // Write all entries to the output file
+            WriteEntries(OUTPUT_PATH, entries);
+
             // Write about the status of the parsing
             Console.WriteLine("{0} parsed vs {1} detected", entries.Count, nodeCount);
+        }
+
+        private static void WriteEntries(string path, IEnumerable<BestiaryEntry> entries)
+        {
+            CSVWriter.WriteFile(path, entries);
         }
 
         /// <summary>
