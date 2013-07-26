@@ -15,7 +15,7 @@ namespace Bestiary_Parser
     internal class Program
     {
         // The file to parse
-        private const string FILE_PATH = @"../../../workingParse.htm";
+        private const string FILE_PATH = @"../../../BestiaryHtml.htm";
 
         // The entries that were successfully parsed
         private static List<BestiaryEntry> entries;
@@ -32,49 +32,66 @@ namespace Bestiary_Parser
         /// <param name="args">The args. Nothing is done with args.</param>
         private static void Main(string[] args)
         {
-            // Create a new htmldocument and load the file to parse.
-            HtmlDocument doc = new HtmlDocument();
-            doc.Load(new StreamReader(FILE_PATH));
-
             // Clear both the log and the output files
             File.Delete(LOG_FILE_PATH);
             File.Delete(OUTPUT_PATH);
 
             entries = new List<BestiaryEntry>();
 
-            // Get the first node that has the CSS class that matches an entry
-            // Not used
-            var htmlNode = doc.DocumentNode.SelectSingleNode(@"//P[@class='p2 ft9']");
+            // Get the text from the input file
+            var text = File.ReadAllText(FILE_PATH);
 
-            int nodeCount = 0;
-            // Iterate through the nodes in the document
-            foreach (HtmlNode pageNode in doc.DocumentNode.Descendants())
+            // Strip the html and spaces from the text
+            text = HTMLtoTextConverter.StripHTML(text);
+
+            // Strip everything not related to the entries
+            text = stripExtras(text);
+            File.WriteAllText("../../../strippedText.txt", text);
+            // Log all the entries to the log file
+            //LogEntries();
+
+            // Write all entries to the output file
+            //WriteEntries(OUTPUT_PATH, entries);
+        }
+
+        private static string stripExtras(string text)
+        {
+            // Split it out into lines
+            var lines = Regex.Split(text, @"\r\n|\n|\r");
+            // Skip everything until the first entry
+            lines = lines.SkipWhile(line => line != "Ankheg").ToArray();
+            // Skip the lines containing footer material
+            skipFooter(ref lines);
+
+            // Rebuild a single string from the lines
+            StringBuilder sb = new StringBuilder();
+            foreach (string line in lines)
             {
-                // Find a div inside the pageNode
-                var monsterNode = pageNode.SelectSingleNode(".//div");
-                // If it's not null and the inner text has something, it might be a monster
-                if (monsterNode != null && monsterNode.InnerText != null)
-                {
-                    nodeCount++;
+                sb.AppendLine(line);
+            }
+            return sb.ToString();
+        }
 
-                    // Try to create an entry from the inner text.
-                    var entry = BestiaryEntry.CreateFromText(monsterNode.InnerText);
-                    if (entry != null)
-                    {
-                        // If it successfully parsed, add it to the list of entries.
-                        entries.Add(entry);
-                    }
+        private static void skipFooter(ref string[] lines)
+        {
+            var indexesToSkip = new List<int>();
+            // Match the following lines:
+            //D&D Next Playtest
+            //©2013 Wizards
+            //16
+            //Confidential information of Wizards of the Coast LLC.
+            //Do not distribute.
+            Regex regex = new Regex(@"D&D.*|.20\d{2}\sWizards|^\d+$|Confidential\sinformation.*|Do\snot\sdistr.*");
+            for (int i = 0; i < lines.Length; i++)
+            {
+                if (regex.IsMatch(lines[i]))
+                {
+                    indexesToSkip.Add(i);
                 }
             }
 
-            // Log all the entries to the log file
-            LogEntries();
-
-            // Write all entries to the output file
-            WriteEntries(OUTPUT_PATH, entries);
-
-            // Write about the status of the parsing
-            Console.WriteLine("{0} parsed vs {1} detected", entries.Count, nodeCount);
+            // Select only the lines that are not footer material
+            lines = lines.Where((line, index) => !indexesToSkip.Contains(index)).ToArray();
         }
 
         private static void WriteEntries(string path, IEnumerable<BestiaryEntry> entries)

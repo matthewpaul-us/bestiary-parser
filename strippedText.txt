@@ -1,0 +1,3486 @@
+Ankheg
+Large Beast
+Armor Class 15
+Hit Points 39 (6d10 + 6)
+Speed 30 ft., burrow 20 ft.
+Senses darkvision 60 ft., tremorsense 30 ft.
+Str 15 (+2)
+Dex 11 (+0)
+Con 13 (+1)
+Int 1 (–5)
+Wis 13 (+1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Soft Underbelly: While the ankheg is prone, it takes a –3 penalty to AC.
+Tunneler: When the ankheg burrows, it leaves behind a 5- foot-diameter tunnel.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 11 (2d8 + 2) piercing damage and 3 (1d6) acid damage, and a Medium or smaller target is grappled and is restrained while grappled. While it has a creature grappled, the ankheg can bite only that creature. Whenever the ankheg takes damage, it releases the grapple.
+Acid Spray (Recharge 6): If it has no creature grappled, the ankheg can breathe acid in a 30-foot line. Each creature in the line must make a DC 9 Dexterity saving throw. Failed Save: 10 (3d6) acid damage. Successful Save:
+Half damage.
+ENCOUNTER BUILDING
+Level 4 XP 190
+Ape, Carnivorous
+Large Beast
+Armor Class 12
+Hit Points 37 (5d10 + 10)
+Speed 30 ft., climb 30 ft.
+Senses low-light vision
+Str 16 (+3)
+Dex 14 (+2)
+Con 14 (+2)
+Int 5 (–3)
+Wis 12 (+1)
+Cha 7 (–2)
+Alignment unaligned
+Languages —
+ACTIONS
+Multiattack: The ape makes two slam attacks.
+Melee Attack—Slam: +5 to hit (reach 5 ft.; one creature). Hit: 7 (1d8 + 3) bludgeoning damage.
+Ranged Attack—Rock: +4 to hit (range 25 ft./50 ft.; one creature). Hit: 12 (2d8 + 3) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 4 XP 170
+Ape, Giant Carnivorous
+Huge Beast
+Armor Class 13
+Hit Points 95 (10d12 + 30)
+Speed 40 ft., climb 40 ft.
+Senses low-light vision
+Str 22 (+6)
+Dex 14 (+2)
+Con 16 (+3)
+Int 6 (–2)
+Wis 12 (+1)
+Cha 8 (–1)
+Alignment unaligned
+Languages —
+ACTIONS
+Multiattack: The ape makes two slam attacks.
+Melee Attack—Slam: +6 to hit (reach 10 ft.; one creature). Hit: 16 (3d6 + 6) bludgeoning damage.
+Ranged Attack—Rock: +6 to hit (range 50 ft./100 ft.; one creature). Hit: 28 (4d10 + 6) bludgeoning damage, and if the target is Large or smaller, it falls prone.
+ENCOUNTER BUILDING
+Level 7 XP 1,180
+Aranea
+Medium Monstrosity (Shapechanger)
+Armor Class 12
+Hit Points 32 (5d8 + 10)
+Speed 30 ft., climb 30 ft.
+Senses low-light vision
+Str 11 (+0)
+Dex 15 (+2)
+Con 14 (+2)
+Int 14 (+2)
+Wis 10 (+0)
+Cha 13 (+1)
+Alignment neutral evil
+Languages Common
+TRAITS
+Spider Climb: The aranea can climb on smooth walls and upside down on horizontal surfaces. It ignores movement restrictions due to webbing, including that from a web spell.
+ACTIONS
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw. Failed Save: 11 (2d10) poison damage.
+Ranged Attack—Web (Recharge 5–6): +6 to hit (range 30 ft./60 ft.; one creature). Hit: The target is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check to escape. The webbing has AC 13, and another creature can deal 5 fire or slashing damage to the webbing to end this effect; if fire damage is used, the restrained creature also takes the damage.
+ENCOUNTER BUILDING
+Level 4 XP 160
+Customization Options
+Some araneas have one or both of these action options.
+Change Shape: Some araneas can polymorph into a Medium spider-humanoid hybrid or into a Small or Medium humanoid at will and can remain in either form indefinitely. While in hybrid or humanoid form, the aranea can use weapons, wear armor, and manipulate objects, but it loses its climb speed and Spider Climb trait. It cannot make bite or web attacks in humanoid form.
+The aranea reverts to its natural form when killed.
+Spellcasting: The aranea casts one of the following spells: at will—light, shocking grasp; 1/day—magic missile, sleep, web. The aranea uses Intelligence as its magic ability score, and the saving throw DC to resist its spells is 12.
+Basilisk
+Medium Beast
+Armor Class 10
+Hit Points 28 (5d8 + 5)
+Speed 20 ft.
+Senses darkvision 60 ft.
+Str 13 (+1)
+Dex 8 (–1)
+Con 12 (+1)
+Int 2 (–4)
+Wis 14 (+2)
+Cha 12 (+1)
+Alignment unaligned
+Languages —
+TRAITS
+Petrifying Gaze: A creature that starts its turn within 30 feet of the basilisk and can see the basilisk must either avert its eyes or make a DC 11 Constitution saving throw against petrification (if the target is surprised, it cannot avert its eyes). A target that averts its eyes has disadvantage on attack rolls until the start of its next turn. Failed Save: The target is restrained. The target can use its action to make a DC 11 Constitution check. If the check fails or is not made, the target turns to stone permanently.
+A basilisk can be affected by its own gaze if it sees its own eyes reflected on a polished surface that’s within 30 feet of it and in an area of bright light.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 10 (2d8 + 1) piercing damage.
+ENCOUNTER BUILDING
+Level 3 XP 120
+Beetle, Fire
+Small Beast
+Armor Class 13
+Hit Points 3 (1d6)
+Speed 30 ft.
+Str 10 (+0)
+Dex 10 (+0)
+Con 11 (+0)
+Int 3 (–4)
+Wis 8 (–1)
+Cha 7 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Glowing Glands: The fire beetle has two glands (one above each eye) that cast bright light in a 10-foot-radius sphere. The glands continue to cast light for 1d6 days after the beetle is slain.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d6) piercing damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Behir
+Huge Monstrosity
+Armor Class 15
+Hit Points 114 (12d12 + 36); see Traits below
+Speed 50 ft., climb 30 ft.
+Senses darkvision 90 ft.
+Str 20 (+5)
+Dex 13 (+1)
+Con 17 (+3)
+Int 6 (–2)
+Wis 14 (+2)
+Cha 12 (+1)
+Alignment neutral evil
+Languages Draconic
+TRAITS
+Immunity: The behir is immune to lightning.
+ACTIONS
+Multiattack: The behir makes one bite attack and one constrict attack, or if the behir has a creature grappled, it can make six claw attacks against that creature.
+Melee Attack—Bite: +6 to hit (reach 10 ft.; one creature).
+Hit: 12 (2d6 + 5) piercing damage.
+Melee Attack—Claw: +6 to hit (reach 5 ft.; one creature).
+Hit: 8 (1d6 + 5) slashing damage.
+Melee Attack—Constrict: +6 to hit (reach 10 ft.; one creature). Hit: 14 (2d8 + 5) bludgeoning damage, and a Large or smaller target is grappled and is restrained while grappled. The behir can have only one creature grappled at a time.
+Lightning Breath (Recharge 5-6): The behir breathes lightning in a 20-foot line. Each creature in the line must make a DC 12 Dexterity saving throw. Failed Save: 24 (7d6) lightning damage. Successful Save: Half damage.
+Swallow Whole: While grappling a Medium or smaller creature, the behir can make a bite attack against the creature, and if the behir hits, it also swallows the creature. A behir can swallow one creature at a time.
+A swallowed creature takes 20 (3d6 + 10) acid damage at the start of each of the behir’s turns until it escapes. A swallowed creature is blinded and restrained, but it can use its action to cut its way free by dealing 15 piercing or slashing damage to the gizzard (AC 12). A creature that frees itself falls prone in an unoccupied space within 5 feet of the behir.
+ENCOUNTER BUILDING
+Level 7
+XP 1,880
+Beholder
+Large Aberration
+Armor Class 15
+Hit Points 123 (13d10 + 52)
+Speed 0 ft., fly 20 ft.
+Senses darkvision 150 ft.
+Str 10 (+0)
+Dex 14 (+2)
+Con 18 (+4)
+Int 17 (+3)
+Wis 15 (+2)
+Cha 17 (+3)
+Alignment lawful evil
+Languages Common, Undercommon
+TRAITS
+Antimagic Cone: The beholder’s central eye emits an antimagic field (as the spell) in a 150-foot cone. All spells, magic items, and magical effects within the area are suppressed—even the beholder’s own eye rays. At start of each of its turns, a beholder decides which way the cone faces and whether the cone is active (the beholder deactivates the cone by shutting its central eye).
+Hover: The beholder cannot be knocked prone. It continues to hover even when stunned or knocked unconscious.
+Keen Senses: The beholder gains a +5 bonus to all checks to detect hidden creatures.
+Vigilant: The beholder is never surprised.
+ACTIONS
+Melee Attack—Bite: +2 to hit (reach 5 ft.; one creature). Hit: 5 (2d4) piercing damage.
+Eye Rays: The beholder uses 1d4 + 1 eye rays. Each has a range of 150 feet and targets a single creature. The beholder can choose which specific eye rays to use, or it can roll randomly on the table below.
+d10 Eye Ray
+1–2 Charm: The target must make a DC 14 Wisdom saving throw. Failed Save: The target is charmed by the beholder for 1 hour, or until the beholder or one of the beholder's allies harms it.
+3 Fear: The target must make a DC 14 Wisdom saving throw. Failed Save: The target is frightened until the end of its next turn. While frightened, it must use its movement to move away from the beholder.
+4 Slow: The target must make a DC 14 Dexterity saving throw. Failed Save: The target’s speed is reduced by 15, all attacks made against the target have advantage, and the target can take only a single
+action or a single move on each of its turns for 1 minute. The speed reduction is cumulative with other effects that reduce the target’s speed.
+5 Inflict Wounds: The target must make a DC 14 Constitution saving throw. Failed Save: 36 (8d8) necrotic damage. Successful Save: Half damage.
+6 Telekinesis: The target must make a DC 14 Constitution saving throw. Failed Save: The beholder moves the target up to 30 feet in any direction.
+7 Sleep: The target must make a DC 14 Wisdom saving throw. Failed Save: The target falls unconscious for 1 minute or until it takes damage or until someone uses an action to shake or slap the target awake.
+8 Petrification: The target must make a DC 14 Constitution saving throw. Failed Save: The target is permanently turned to stone.
+9 Disintegration: The target must make a DC 14 Constitution saving throw. Failed Save: If the target has 60 hit points or fewer, it is disintegrated. Successful Save: 35 (10d6) force damage. If this damage reduces the target to 0 hit points or fewer, the target is disintegrated. A disintegrated creature and all its possessions are reduced to a small pile of fine gray dust.
+10Death: If the creature has 40 hit points or fewer, it dies. Otherwise, the target must make a DC 14 Constitution saving throw. Failed Save: 45 (10d8) necrotic damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 12
+XP 6,330
+Bugbear
+Medium Humanoid (Goblinoid)
+Armor Class 15 (leather, shield)
+Hit Points 18 (4d8)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 15 (+2)
+Dex 14 (+2)
+Con 10 (+0)
+Int 8 (–1)
+Wis 11 (+0)
+Cha 9 (–1)
+Alignment neutral evil
+Languages Common, Goblin
+TRAITS
+Stealthy +5: The bugbear gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Melee Attack—Morningstar: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage.
+Ranged Attack—Javelin: +5 to hit (range 30 ft./120 ft.; one creature). Hit: 5 (1d6 + 2) piercing damage.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Bullywug
+Medium Humanoid
+Armor Class 14 (leather, shield)
+Hit Points 11 (
+Speed 20 ft.,
+swim 40 ft.
+2d8 + 2
+Senses low-light vision
+Str 10 (+0)
+Dex 12 (+1)
+Con 13 (+1)
+Int 9 (–1)
+Wis 11 (+0)
+Cha 7 (–2)
+Alignment chaotic evil
+Languages Bullywug
+TRAITS
+Aquatic: The bullywug can breathe underwater, and being underwater imposes no penalty on its attack rolls or checks.
+Stealthy +5: The bullywug gains a +5 bonus to all checks to avoid detection.
+Leap: On land, as part of the bullywug’s movement, it can leap up to 20 feet horizontally and up to 10 feet vertically without a running start. If the bullywug leaps at least 10 feet, it gains a +3 bonus to damage rolls for attacks it makes on the same turn.
+ACTIONS
+Multiattack: The bullywug makes one bite attack and one spear attack.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d6) piercing damage.
+Melee Attack—Spear: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d6) piercing damage.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Carrion Crawler
+Large Beast
+Armor Class 12
+Hit Points 34 (4d10 + 12)
+Speed 30 ft., climb 30 ft.
+Senses darkvision 60 ft.
+Str 14 (+2)
+Dex 15 (+2)
+Con 16 (+3)
+Int 1 (–5)
+Wis 12 (+1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+ACTIONS
+Multiattack: The carrion crawler makes one tentacles attack and one bite attack.
+Melee Attack—Tentacles: +5 to hit (reach 5 ft.; one creature). Hit: The target must make a DC 12 Constitution saving throw. Failed Save: The target is paralyzed for 1 minute. This is a poison effect, and the duration is cumulative with multiple hits. The target can use an action while paralyzed to make a DC 12 Constitution check to end the paralysis.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 7 (2d4 + 2) piercing damage.
+ENCOUNTER BUILDING
+Level 3 XP 100
+Centipede, Giant
+Small Beast
+Armor Class 12
+Hit Points 3 (1d6)
+Speed 40 ft., climb 20 ft.
+Senses darkvision 60 ft.
+Str 7 (–2)
+Dex 14 (+2)
+Con 11 (+0)
+Int 3 (–4)
+Wis 8 (–1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Pack Tactics: The centipede gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw. Failed Save: The target takes a 5-foot penalty to speed and a –1 penalty to AC and Dexterity saving throws for 1d6 hours. This is a poison effect. Multiple bites have cumulative effects, but the duration remains unchanged.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Chimera
+Large Monstrosity
+Armor Class 14
+Hit Points 114 (12d10 + 48)
+Speed 30 ft., fly 30 ft.
+Senses low-light vision
+Str 18 (+4)
+Dex 11 (+0)
+Con 19 (+4)
+Int 3 (–4)
+Wis 14 (+2)
+Cha 10 (+0)
+Alignment chaotic evil
+Languages understands Draconic
+ACTIONS
+Multiattack: The chimera makes a bite attack, a gore attack, and a rake attack.
+Melee Attack—Bite: +7 to hit (reach 5 ft.; one creature). Hit: 14 (3d6 + 4) piercing damage.
+Melee Attack—Gore: +7 to hit (reach 5 ft.; one creature). Hit: 10 (1d12 + 4) piercing damage.
+Melee Attack—Rake: +7 to hit (reach 5 ft.; one creature). Hit: 11 (2d6 + 4) slashing damage.
+Cockatrice
+Small Beast
+Armor Class 12
+Hit Points 22 (5d6 + 5)
+Speed 20 ft., fly 40 ft.
+Senses darkvision 60 ft.
+Str 6 (–2)
+Dex 14 (+2)
+Con 12 (+1)
+Int 1 (–5)
+Wis 13 (+1)
+Cha 8 (–1)
+Alignment unaligned
+Languages —
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d4 + 2) piercing damage, and the target makes a DC 11 Constitution saving throw. Failed Save: The target is restrained. The target can use its action to make a DC 11 Constitution check. If the check fails or is not made, the target turns to stone permanently.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Fire Breath (Recharge 6): The chimera breathes fire in a 15-foot cone. Each creature in the area must make a DC 12 Dexterity saving throw. Failed Save: 21 (6d6) fire damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 7 XP 1,550
+Crab, Giant
+Medium Beast
+Armor Class 13
+Hit Points 13 (3d8)
+Speed 30 ft.
+Str 13 (+1)
+Dex 15 (+2)
+Con 11 (+0)
+Int 1 (–5)
+Wis 12 (+1)
+Cha 4 (–3)
+Alignment unaligned
+Languages —
+TRAITS
+Aquatic: The crab can breathe underwater, and being underwater imposes no penalty on its attack rolls or checks.
+ACTIONS
+Melee Attack—Claw: +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d8 + 1) bludgeoning damage, and a Medium or smaller target is grappled. The crab can have only one creature grappled at a time, but the crab has advantage on attack rolls against that creature.
+ENCOUNTER BUILDING
+Level 2 XP 30
+Cultist of Asmodeus
+Medium Humanoid (Human)
+Armor Class 12
+Hit Points 40 (9d8)
+Speed 25 ft.
+Str 10 (+0)
+Dex 14 (+2)
+Con 11 (+0)
+Int 13 (+1)
+Wis 10 (+0)
+Cha 14 (+2)
+Alignment lawful evil
+Languages Common, Infernal
+ACTIONS
+Multiattack: The cultist makes two mace attacks or two hurl flame attacks.
+Melee Attack—Mace: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d6) bludgeoning damage and 9 (2d8) fire damage.
+Ranged Attack—Hurl Flame: +5 to hit (range 50 ft.; one creature). Hit: 10 (3d6) fire damage.
+Frighten (1/day): The cultist chooses any number of creatures within 20 feet of it. Each target must make a DC 12 Wisdom saving throw. Failed Save: The target is frightened for 1 minute. As an action, the frightened target can make a DC 12 Wisdom check to end this effect.
+Infernal Seduction (1/day): The cultist chooses a creature within 50 feet of it that can hear and understand it. The creature must make a DC 12 Wisdom saving throw. Failed Save: The target is charmed until the end of its next turn. During that turn, the cultist can verbally control how the target uses its action and movement, but cannot command the target to harm itself.
+ENCOUNTER BUILDING
+Level 5 XP 280
+Cyclops
+Huge Giant
+Armor Class 12 (hide)
+Hit Points 138 (12d12 + 60)
+Speed 30 ft.
+Str 25 (+7)
+Dex 11 (+0)
+Con 20 (+5)
+Int 9 (–1)
+Wis 6 (–2)
+Cha 10 (+0)
+Alignment chaotic evil
+Languages Common, Giant
+TRAITS
+Poor Eyesight: In bright or dim light, the cyclops takes a –2 penalty to attack rolls against targets 10 feet or farther from it.
+ACTIONS
+Multiattack: The cyclops makes two greatclub attacks.
+Melee Attack—Greatclub: +7 to hit (reach 15 ft.; one creature). Hit: 20 (3d8 + 7) bludgeoning damage, and if the target is Large or smaller, the cyclops knocks it prone.
+Ranged Attack—Boulder: +5 to hit (range 60 ft./240 ft.; one creature). Hit: 23 (3d10 + 7) bludgeoning damage, and if the target is Large or smaller, it falls prone and cannot stand up. The prone target can use its action to make a DC 15 Strength or Dexterity check to crawl out from under the boulder. On a successful check, the target can stand up.
+ENCOUNTER BUILDING
+Level 9 XP 2,720
+Customization Options
+Some cyclopses have the following action option.
+Evil Eye (Recharge 6): The cyclops chooses a creature within 50 feet of it that it can see. The target must make a DC 12 Charisma saving throw. Failed Save: The target is cursed for 1 day. While cursed, the target makes attack rolls, checks, and saving throws with disadvantage. A remove curse spell frees the target from the curse, as does killing the cyclops that cursed it.
+Cyclopes with this option are level 10 and are worth 3,300 XP.
+Dark Acolyte
+Medium Humanoid (Human)
+Armor Class 16 (ring mail, shield)
+Hit Points 6 (1d8 + 2)
+Speed 25 ft.
+Str 12 (+1)
+Dex 11 (+0)
+Con 13 (+1)
+Int 10 (+0)
+Wis 15 (+2)
+Cha 10 (+0)
+Alignment chaotic evil
+Languages Common
+ACTIONS
+Melee Attack—Mace: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d6 + 1) bludgeoning damage.
+Ranged Attack—Sling: +4 to hit (range 30 ft./120 ft.; one creature). Hit: 2 (1d4) bludgeoning damage.
+Spellcasting: The acolyte can cast the following spell once per day.
+Cure Wounds: One living creature within 25 feet of the acolyte regains 8 (1d8 + 4) hit points. The acolyte can make a melee or a ranged attack as part of the same action.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Dark Adept
+Medium Humanoid (Human)
+Armor Class 16 (ring mail, shield)
+Hit Points 11 (2d8 + 2)
+Speed 25 ft.
+Str 12 (+1)
+Dex 11 (+0)
+Con 13 (+1)
+Int 10 (+0)
+Wis 15 (+2)
+Cha 10 (+0)
+Alignment chaotic evil
+Languages Common
+ACTIONS
+Melee Attack—Mace: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d6 + 1) bludgeoning damage.
+Ranged Attack—Sling: +4 to hit (range 30 ft./120 ft.; one creature). Hit: 2 (1d4) bludgeoning damage.
+Spellcasting: The adept casts one of the following spells. It can cast each spell once per day.
+Cure Wounds: One living creature within 25 feet of the adept regains 8 (1d8 + 4) hit points. The adept can make a melee or a ranged attack as part of the same action.
+Inflict Wounds: One living creature within 25 feet of the adept must make a DC 12 Constitution saving throw.
+Failed Save: 18 (4d8) necrotic damage. Successful Save:
+Half damage. Special: If the adept targets an undead creature, the target instead regains 8 (1d8 + 4) hit points.
+ENCOUNTER BUILDING
+Level 2 XP 60
+Dark Priest
+Medium Humanoid (Human)
+Armor Class 17 (banded)
+Hit Points 22 (4d8 + 4)
+Speed 25 ft.
+Str 12 (+1)
+Dex 11 (+0)
+Con 13 (+1)
+Int 10 (+0)
+Wis 16 (+3)
+Cha 12 (+1)
+Alignment chaotic evil
+Languages Common
+ACTIONS
+Melee Attack—Mace: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d6 + 1) bludgeoning damage.
+Ranged Attack—Sling: +4 to hit (range 30 ft./120 ft.; one creature). Hit: 2 (1d4) bludgeoning damage.
+Spellcasting: The priest casts one of the following spells. It can cast each spell once per day.
+Bless: The priest chooses any number of creatures in a 20-foot-radius sphere within 50 feet of it. Each of those creatures gains a +1 bonus to attack rolls and saving throws for 1 minute. The priest can make a melee or a ranged attack as part of the same action.
+Inflict Wounds: One living creature within 25 feet of the priest must make a DC 13 Constitution saving throw.
+Failed Save: 18 (4d8) necrotic damage. Successful Save:
+Half damage. Special: If the priest targets an undead creature, the target instead regains 8 (1d8 + 4) hit points.
+Heightened Inflict Wounds: One living creature within 25 feet of the priest must make a DC 13 Constitution saving throw. Failed Save: 22 (5d8) necrotic damage. Successful Save: Half damage. Special: If the priest targets an undead creature, the target instead regains 8 (1d8 + 4) hit points.
+Silence: The priest chooses a point it can see within 100 feet of it. For 10 minutes, no sound can be created within a 20-foot-radius sphere centered on that point. Creatures within the area are deafened.
+ENCOUNTER BUILDING
+Level 4 XP 150
+Death Knight
+Medium Undead
+Armor Class 18 (plate mail)
+Hit Points 85 (9d8 + 45); see Traits below
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 20 (+5)
+Dex 11 (+0)
+Con 20 (+5)
+Int 12 (+1)
+Wis 16 (+3)
+Cha 18 (+4)
+Alignment chaotic evil
+Languages Common
+TRAITS
+Dread Commander: The death knight and undead creatures under the death knight’s command treat their hit points as doubled for the purpose of resisting turn undead effects.
+Fear Aura: Any living creature hostile to the death knight that starts its turn within 5 feet of it must make a DC 15 Wisdom saving throw. Failed Save: The target is frightened for 1 minute. Successful Save: The target is immune to the death knight's Fear Aura trait for the next 24 hours. This immunity also applies once the effect ends.
+Immunities: The death knight is immune to disease, necrotic, and poison. It cannot be put to sleep and does not need to sleep, eat, or breathe.
+Magic Resistance: The death knight has advantage on saving throws against magical effects.
+ACTIONS
+Multiattack: The death knight makes three long sword attacks.
+Melee Attack—Long Sword: +8 to hit (reach 5 ft.; one creature). Hit: 14 (2d8 + 5) slashing damage and 9 (2d8) necrotic damage.
+Eldritch Fire (Recharge 5-6): The death knight chooses a point within 50 feet of it. Each creature in a 20-foot-radius cloud centered on that point must make a DC 15 Dexterity saving throw. Failed Save: 35 (10d6) fire damage.
+Successful Save: Half damage.
+The fire ignites unattended flammable objects and damages objects in the area.
+REACTIONS
+Parry: As a reaction to a melee attack that hits it, a death knight can roll 2d6 and subtract the result from the damage taken from the attack.
+ENCOUNTER BUILDING
+Level 11 XP 4,930
+Customization Options
+Some death knights have one or both of these action options.
+Spells: The death knight casts one of the following spells: at will—detect magic, shocking grasp; 2/day—dispel magic; 1/day—darkness, feather fall, hold person, thunderwave. The death knight uses Wisdom as its magic ability, and the saving throw DC to resist its spells is 13.
+Nine Lives Stealer: The death knight wields a nine lives stealer long sword +2. Replace its long sword attack with the following attack.
+Melee Attack—Nine Lives Stealer Long Sword +2: +9 to hit (reach 5 ft.; one creature). Hit: 11 (1d8 + 7) slashing damage and 9 (2d8) necrotic damage, and the target must make a DC 13 Constitution save throw. Failed Save: The target dies, its soul drawn into the blade. Creatures who lose their souls to this weapon cannot be restored to life by any means short of a wish.
+Once the sword drains its ninth soul, the death knight loses attunement to the sword and creatures cannot become attuned to this weapon for one year and one day.
+Demon: Balor
+Huge Fiend (Demon) Armor Class 16
+Hit Points 207 (18d10 + 108); see Traits below Speed 40 ft., fly 90 ft.
+Senses darkvision 100 ft., truesight 100 ft.
+Str 26 (+8)
+Dex 20 (+5)
+Con 22 (+6)
+Int 20 (+5)
+Wis 16 (+3)
+Cha 22 (+6)
+Alignment chaotic evil
+Languages Abyssal, Common
+TRAITS
+Death Throes: A balor explodes when killed. Each creature within 50 feet of the slain balor must make a DC 14 Dexterity saving throw. Failed Save: 35 (10d6) fire damage. Successful Save: Half damage.
+The explosion destroys any weapons held by the balor, and ignites unattended flammable objects and damages objects in the area.
+Flaming Body: A creature that starts its turn within 5 feet of the balor takes 21 (6d6) fire damage.
+Immunities: The balor is immune to fire.
+Resistances: The balor is resistant to cold and lightning, and to nonmagical weapons except those made of cold- forged iron.
+Telepathy: The balor can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The balor makes two long sword attacks and one flaming whip attack.
+Melee Attack—Long Sword: +8 to hit (reach 10 ft.; one creature). Hit: 21 (3d8 + 8) slashing damage.
+Melee Attack—Flaming Whip: +8 to hit (reach 20 ft.; one creature). Hit: 15 (2d6 + 8) slashing damage and 14 (4d6) fire damage, and the target is pulled next to the balor if it fails a Strength contest against the balor.
+Summon Demons (1/day): The balor can automatically summon 3d8 dretches, 1d4 hezrous, or 2d4 vrocks. Alternatively, it can attempt to summon another balor, a glabrezu, a marilith, or a nalfeshnee with a 50% chance of success. Summoned demons appear within 50 feet of the
+balor, disappear if the balor is slain, and cannot summon demons of their own.
+Teleport: The balor can teleport to any location it can see within 500 feet. Any objects the balor is carrying are transported with it.
+ENCOUNTER BUILDING
+Level 18 XP 30,670
+Customization Options
+Some balors have the following action option, and a balor with this option is Level 20 and worth 49,680 XP.
+Vorpal Long Sword: The balor wields a vorpal long sword. Replace its long sword attack with the following attack.
+Melee Attack—Vorpal Long Sword: +10 to hit (reach 10 ft.; one creature). Hit: 24 (3d8 + 11) slashing damage. Critical Hit: 35 slashing damage, and the balor makes a second attack roll against the same target. If the second attack hits and the target has fewer than 150 hit points, it is killed instantly; otherwise, the target takes 27 (6d8) extra slashing damage.
+Demon: Glabrezu
+Large Fiend (Demon) Armor Class 14
+Hit Points 104 (11d10 + 44); see Traits below
+Speed 30 ft.
+Senses darkvision 100 ft.
+Str 23 (+6)
+Dex 15 (+2)
+Con 19 (+4)
+Int 19 (+4)
+Wis 17 (+3)
+Cha 16 (+3)
+Alignment chaotic evil
+Languages Abyssal, Common
+TRAITS
+Resistances: The glabrezu is resistant to cold, fire, and lightning, and to nonmagical weapons except those made of cold-forged iron.
+Telepathy: The glabrezu can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The glabrezu makes two pincer attacks and casts one spell, or makes two pincer attacks and two slam attacks.
+Melee Attack—Pincer: +8 to hit (reach 5 ft.; one creature). Hit: 15 (2d8 + 6) piercing damage.
+Melee Attack—Slam: +8 to hit (reach 5 ft.; one creature). Hit: 15 (2d8 + 6) bludgeoning damage.
+Spells: The glabrezu casts one of the following spells: 1/day—chaos hammer, confusion, dispel magic, power word stun. The glabrezu uses Charisma as its magic ability. The saving throw DC to resist its spells is 13.
+Summon Demons (1/day): A glabrezu can summon 1d3 vrocks, 1d2 hezrous, or another glabrezu with a 30% chance of success. Summoned demons appear within 50 feet of the glabrezu, disappear if the glabrezu is slain, and cannot summon demons of their own.
+ENCOUNTER BUILDING
+Level 13
+XP 9,640
+Chaos Hammer
+The chaos hammer spell doesn’t appear in the “Spells” yet, so here is a concise version of it.
+Chaos Hammer: Each creature in a 20-foot-radius cloud within 50 feet of the glabrezu must make a DC 13 Dexterity saving throw. Failed Save: 25 damage of a type chosen by the demon: fire, cold, lightning, or thunder.
+Successful Save: Half damage.
+Demon: Hezrou
+Large Fiend (Demon)
+Armor Class 14
+Hit Points 85 (9d10 + 36); see Traits below
+Speed 30 ft.
+Senses darkvision 100 ft.
+Str 19 (+4)
+Dex 17 (+3)
+Con 18 (+4)
+Int 5 (–3)
+Wis 12 (+1)
+Cha 13 (+1)
+Alignment chaotic evil
+Languages Abyssal, Common
+TRAITS
+Hezrou Stench: A creature without this trait that starts its turn within 10 feet of the hezrou must make a DC 12 Constitution save. (A creature within 10 feet of multiple hezrous must make a separate saving throw for each hezrou’s stench.) Failed Save: The creature has disadvantage on attack rolls and checks until it is no longer within 10 feet of a creature with this trait. This is a poison effect. Successful Save: The creature is immune to this hezrou's stench for 24 hours.
+Demons are immune to the hezrou’s stench.
+Immunity: The hezrou is immune to poison.
+Resistances: The hezrou is resistant to cold, fire, and lightning, and to nonmagical weapons except those made of cold-forged iron.
+Telepathy: The hezrou can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The hezrou makes one bite attack and two claw attacks.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 13 (2d8 + 4) piercing damage.
+Melee Attack—Claw: +6 to hit (reach 5 ft.; one creature). Hit: 8 (1d8 + 4) slashing damage.
+Summon Demons (1/day): The hezrou can attempt to summon 2d10 dretches or one hezrou with a 30% chance of success. Summoned demons appear within 50 feet of the hezrou, disappear if the hezrou is slain, and cannot summon demons of their own.
+ENCOUNTER BUILDING
+Level 10 XP 2,840
+Demon: Mane
+Small Fiend (Demon)
+Armor Class 12
+Hit Points 6 (1d10 + 1); see Traits below
+Speed 20 ft.
+Str 10 (+0)
+Dex 11 (+0)
+Con 13 (+1)
+Int 2 (–4)
+Wis 8 (–1)
+Cha 5 (–3)
+Alignment chaotic evil
+Languages —
+TRAITS
+Eternal Torment: A mane reduced to 0 hit points or fewer dissipates into a cloud of stinking vapor. After 24 hours, the mane re-forms on a random layer on the Abyss.
+Immunities: The mane cannot be charmed or frightened.
+Resistances: The mane is resistant to cold, fire, and lightning.
+ACTIONS
+Multiattack: The mane makes one bite attack and one claws attack.
+Melee Attack—Bite: +4 to hit (reach 5 ft.; one creature). Hit: 2 (1d4) piercing damage.
+Melee Attack—Claws: +4 to hit (reach 5 ft.; one creature). Hit: 2 (1d4) slashing damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Demon: Marilith
+Large Fiend (Demon) Armor Class 16
+Hit Points 142 (15d10 + 60); see Traits below
+Speed 40 ft.
+Senses darkvision 100 ft., truesight 100 ft.
+Str 18 (+4)
+Dex 19 (+4)
+Con 18 (+4)
+Int 18 (+4)
+Wis 16 (+3)
+Cha 20 (+5)
+Alignment chaotic evil
+Languages Abyssal, Common
+TRAITS
+Reactive: The marilith can take any number of reactions.
+Resistances: The marilith is resistant to cold, fire, and lightning, and to nonmagical weapons except those made of cold-forged iron.
+Telepathy: The marilith can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The marilith makes six long sword attacks and one constrict attack.
+Melee Attack—Long Sword: +8 to hit (reach 10 ft.; one creature). Hit: 13 (2d8 + 4) slashing damage.
+Melee Attack—Constrict: +8 to hit (reach 5 ft.; one creature). The attack automatically hits a creature grappled by the marilith. Hit: 8 (1d8 + 4) bludgeoning damage, and a Large or smaller target is grappled and is restrained while grappled. The marilith can grapple only one creature at a time.
+Summon Demons (1/day): The marilith can attempt to summon 2d10 dretches, 1d4 hezrous, or one nalfeshnee with a 50% chance of success, or one glabrezu or marilith with a 20% chance of success. Summoned demons appear within 50 feet of the marilith, disappear if the marilith is slain, and cannot summon demons of their own.
+Teleport: The marilith can teleport to any location it can see within 500 feet. Any objects the marilith is carrying are transported with it.
+REACTIONS
+Parry: As a reaction to a melee attack that hits it, a marilith can roll 2d8 and subtract the result from the damage taken from the attack.
+ENCOUNTER BUILDING
+Level 15
+XP 20,010
+Demon: Nalfeshnee
+Large Fiend (Demon)
+Armor Class 15
+Hit Points 147 (14d10 + 70); see Traits below
+Speed 20 ft., fly 30 ft.
+Senses darkvision 100 ft.
+Str 24 (+7)
+Dex 10 (+0)
+Con 21 (+5)
+Int 19 (+4)
+Wis 12 (+1)
+Cha 15 (+2)
+Alignment chaotic evil
+Languages Abyssal, Common
+TRAITS
+Resistances: The nalfeshnee is resistant to cold, fire, and lightning, and to nonmagical weapons except those made of cold-forged iron.
+Telepathy: The nalfeshnee can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The nalfeshnee makes two claw attacks and one bite attack, and uses cause fear.
+Melee Attack—Claw: +8 to hit (reach 10 ft.; one creature).
+Hit: 11 (1d8 + 7) slashing damage.
+Melee Attack—Bite: +8 to hit (reach 5 ft.; one creature).
+Hit: 20 (3d8 + 7) piercing damage.
+Cone of Terror: Each creature the nalfeshnee chooses in a 15-foot cone originating from it must make a DC 14 Wisdom saving throw. Failed Save: The target is frightened for 1 minute. While the target is frightened, it must use its movement to move away from the nalfeshnee. The target can use its action to make a DC 14 Charisma check to end the effect.
+Summon Demons (1/day): The nalfeshnee can attempt to summon 1d4 vrocks, 1d4 hezrous, or one glabrezu with a 50% chance of success, or another nalfeshnee with a 20% chance of success. Summoned demons appear within 50 feet of the nalfeshnee, disappear if the nalfeshnee is slain, and cannot summon demons of their own.
+Teleport: The nalfeshnee can teleport to any location it can see within 500 feet. Any objects the nalfeshnee is carrying are transported with it.
+ENCOUNTER BUILDING
+Level 13
+XP 7,670
+Demon: Quasit
+Tiny Fiend (Demon, Shapechanger)
+Armor Class 13
+Hit Points 7 (3d4); see Traits below
+Speed 20 ft.
+Senses darkvision 100 ft.
+Str 5 (–3)
+Dex 17 (+3)
+Con 10 (+0)
+Int 10 (+0)
+Wis 10 (+0)
+Cha 7 (–2)
+Alignment chaotic evil
+Languages Abyssal, Common
+TRAITS
+Magic Resistance: The quasit has advantage on saving throws against magical effects.
+Resistances: The quasit is resistant to cold, fire, and lightning, and to nonmagical weapons except those made of cold-forged iron.
+ACTIONS
+Melee Attack—Claws: +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d4 + 3) slashing damage, and the target must make a DC 8 Constitution saving throw. Failed Save: 5 (2d4) poison damage, and the target has disadvantage on all Dexterity checks and saving throws, and on all attack rolls made using Dexterity, for 1 minute. This is a poison effect.
+Cause Fear (1/day): The quasit chooses any number of creatures within 20 feet of it. Each target must make a DC 10 Wisdom saving throw. Failed Save: The target is frightened for 1 minute. While frightened, the target must use its movement to move away from the quasit. As an action, the frightened target can make a DC 8 Wisdom check to end this effect.
+Change Shape: The quasit polymorphs into a Medium wolf or a Tiny bat, centipede, or toad and can remain in this form indefinitely. The quasit gains a fly speed of 40 feet in bat form; otherwise, its statistics do not change (except for its size). The quasit reverts to its natural form when killed.
+Invisibility: The quasit turns invisible until it attacks, casts a spell, or ends the effect. It can end the effect at any time without using an action.
+ENCOUNTER BUILDING
+Level 2 XP 60
+Customization Options
+Some quasits have the following trait.
+Familiar: The quasit can choose to serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the quasit is within 10 feet of its master, the master shares the quasit’s Magic Resistance trait. At any time, the quasit can choose to no longer serve its master as a familiar, ending the telepathic bond.
+Demon: Succubus
+Medium Fiend (Demon, Shapechanger)
+Armor Class 13
+Hit Points 44 (8d8 + 8); see Traits below
+Speed 30 ft., fly 50 ft.
+Senses darkvision 100 ft.
+Str 8 (–1)
+Dex 17 (+3)
+Con 13 (+1)
+Int 18 (+4)
+Wis 12 (+1)
+Cha 18 (+4)
+Alignment chaotic evil
+Languages Abyssal, Common
+TRAITS
+Resistances: The succubus is resistant to cold, fire, and lightning, and to nonmagical weapons except those made of cold-forged iron.
+Telepathy: The succubus can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Melee Attack—Claw: +5 to hit (reach 5 ft.; one creature). Hit: 13 (3d6 + 3) slashing damage.
+Melee Attack—Kiss: +5 to hit (reach 5 ft.; one creature charmed by the succubus). Hit: 31 (5d10 + 4) necrotic damage, and the target must make a DC 14 Constitution saving throw. Failed Save: The target’s hit point maximum is reduced by the damage dealt by this attack. This reduction lasts 24 hours.
+A creature whose hit point maximum is reduced to 0 by this attack dies.
+A remove curse spell restores the target’s hit point maximum to its full amount.
+Change Shape: The succubus polymorphs into a Small or Medium humanoid, and can remain in this form indefinitely. The succubus’s statistics do not change when assuming a new shape (except for its size). The succubus reverts to its natural form when killed.
+Domination: The succubus chooses one living humanoid it can see within 50 feet of it. The target must make a DC 14 Wisdom saving throw. If its hit point maximum is less than 50, it fails the saving throw automatically. Failed Save: The target is charmed for 1 day or until the succubus is killed.
+While charmed, the target must also obey the succubus’s commands. The succubus can have only one creature charmed at a time. If the charmed creature takes any damage, it can make a DC 14 Wisdom saving throw to end the effect.
+A creature charmed by this effect remembers being charmed. A creature that succeeds on its saving throw against this effect is immune to this succubus’s domination effect for 24 hours.
+Summon Demons (1/day): A succubus can attempt to summon 1d6 vrocks or one balor with a 30% chance of success. Summoned demons appear within 50 feet of the succubus, disappear if the succubus is slain, and cannot summon demons of their own.
+ENCOUNTER BUILDING
+Level 8 XP 2,140
+Demon: Vrock
+Large Fiend (Demon)
+Armor Class 13
+Hit Points 68 (8d10 + 24); see Traits below
+Speed 40 ft., fly 60 ft.
+Senses darkvision 100 ft.
+Str 17 (+3)
+Dex 15 (+2)
+Con 16 (+3)
+Int 8 (–1)
+Wis 13 (+1)
+Cha 8 (–1)
+Alignment chaotic evil
+Languages Abyssal, Common
+TRAITS
+Resistances: The vrock is resistant to cold, fire, and lightning, and to nonmagical weapons except those made of cold-forged iron.
+Telepathy: The vrock can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The vrock makes one talons attack and one beak attack.
+Melee Attack—Talons: +5 to hit (reach 5 ft.; one creature). Hit: 12 (2d8 + 3) slashing damage.
+Melee Attack—Beak: +5 to hit (reach 5 ft.; one creature). Hit: 8 (2d4 + 3) slashing damage.
+Spores (Recharge 6): The vrock releases poisonous spores in a 5-foot-radius cloud centered on itself. Each creature in the area other than the vrock must make a DC 13 Constitution saving throw. Failed Save: The target takes 5 (1d10) poison damage at the start of each of its turns. The target can use an action to make a DC 13 Constitution check to end the effect. Splashing the target with holy water or casting a bless or lesser restoration spell on the target also ends the effect.
+Stunning Screech (1/day): The vrock emits a horrific screech. Each non-demon creature within 20 feet of the vrock that can hear it must make a DC 13 Constitution saving throw. Failed Save: The target is stunned until the end of its next turn and deafened for 10 minutes.
+Summon Demons (1/day): The vrock can attempt to summon 2d10 dretches or one vrock with a 30% chance of success.
+ENCOUNTER BUILDING
+Level 10 XP 3,300
+Customization Options
+Some vrocks have the following action option.
+Dance of Ruin: To use this ability, a group of at least three vrocks must join talons in a circle, combining their actions and moves to dance and chant wildly. If at any time fewer than three vrocks participating in the dance can take actions or move, the effect ends. After each vrock in the circle spends three actions dancing, a wave of crackling necrotic energy flashes outward. Each non-demon creature within 60 feet of the vrocks must make a DC 12 Reflex saving throw. Failed Save: 55 (10d10) necrotic damage. Successful Save: Half damage.
+Devil: Asmodeus
+Large Fiend (Devil) Armor Class 17
+Hit Points 250 (20d10 + 140); see Traits below
+Speed 30 ft., fly 60 ft.
+Senses darkvision 200 ft.
+Str 25 (+7)
+Dex 21 (+5)
+Con 25 (+7)
+Int 26 (+8)
+Wis 23 (+6)
+Cha 30 (+10)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Authority of Nessus: Any creature hostile to Asmodeus that starts its turn within line of sight of him must either avert its eyes or make a DC 16 Wisdom saving throw (if the target is surprised, it cannot avert its eyes). A target that averts its eyes attacks Asmodeus with disadvantage until the end of its turn. Failed Save: The target is frightened for 1 minute. While frightened, the creature has disadvantage on Strength checks and Strength saving throws, moves at half speed, and deals minimum damage on Strength-based attacks.
+Immunities: Asmodeus is immune to fire and poison.
+Magic Resistance: Asmodeus has advantage on saving throws against magical effects.
+Resistances: Asmodeus is resistant to cold and damage from all weapons except those made of silver.
+Telepathy: Asmodeus can communicate telepathically with any creature within 1,000 feet of him that can understand a language.
+ACTIONS
+Multiattack: Asmodeus makes two rod attacks and can also use superior cone of cold, superior flame strike, infernal domination, or summon devil.
+Melee Attack—Rod: +10 to hit (reach 5 ft.; one creature). Hit: If the target has 150 hit points or fewer, it dies; otherwise, it takes 20 (2d12 + 7) necrotic damage.
+Infernal Domination: Asmodeus chooses one living humanoid he can see and that is within 10 feet. The target makes a DC 17 Wisdom saving throw. Failed Save: The target is charmed for 1 day or until Asmodeus or one of its allies harms it. While the target is charmed, Asmodeus can decide the target’s action and how it moves. On the target’s next turn, it does as Asmodeus commands. A creature charmed by Asmodeus in this way receives the
+commands even if Asmodeus cannot see it. The creature cannot take reactions.
+Asmodeus can have up to seven creatures charmed at a time. If a charmed creature takes any damage, it can make a DC 16 Wisdom saving throw to end the effect.
+A target remembers being charmed by this effect. A creature that succeeds on its saving throw against this effect is immune to Asmodeus’s infernal domination for 24 hours.
+Spellcasting: Asmodeus casts one of the following spells: at will—comprehend languages, detect magic, dispel magic, fear, flame strike, read magic; 1/day—cone of cold, hold person, ice storm, polymorph, thunderwave, trap the soul, true seeing, wall of fire; 1/year—wish. Asmodeus uses Charisma as his magic ability score; the saving throw DC to resist his spells is 20.
+Summon Devil (Recharge 5-6): Asmodeus can summon any devil that is not an archdevil. The summoned devil appears within 50 feet of Asmodeus, disappears if Asmodeus is slain, and cannot summon devils of its own.
+ENCOUNTER BUILDING
+Level 20
+XP 70,090
+Devil, Barbed (Hamatula)
+Medium Fiend (Devil)
+Armor Class 14
+Hit Points 67 (9d8 + 27); see Traits below
+Speed 30 ft.
+Senses darkvision 100 ft.
+Str 15 (+2)
+Dex 17 (+3)
+Con 16 (+3)
+Int 12 (+1)
+Wis 14 (+2)
+Cha 14 (+2)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Immunities: The barbed devil is immune to fire and poison.
+Resistances: The barbed devil is resistant to cold and to nonmagical weapons except those made of silver.
+Telepathy: The barbed devil can communicate telepathically with any creature within 100 feet of it that can understand a language.
+Vigilant: The barbed devil is never surprised.
+ACTIONS
+Multiattack: The barbed devil makes two claw attacks and one barbed tail attack.
+Melee Attack—Claw: +5 to hit (reach 5 ft.; one creature). Hit: 11 (2d8 + 2) piercing damage, and the target must make a DC 12 Wisdom saving throw. Failed Save: The target is frightened until the end of its next turn. If the target is already frightened, the effect lasts for 1 additional minute.
+Melee Attack—Barbed Tail: +5 to hit (reach 5 ft.; one creature). Hit: 13 (2d10 + 2) piercing damage.
+Produce Flame: A flame appears in the barbed devil's claw. As part of this action, the devil can hurl the flame at a creature or object within 50 feet of it, dealing 15 fire damage to the target (no attack roll required), or it can apply this damage to its next claw attack, whether the attack hits or misses.
+The fire ignites any unattended flammable object it damages.
+Summon Devil (1/day): The barbed devil can attempt to summon another barbed devil with a 30% chance of success. The summoned devil appears within 50 feet of
+the barbed devil, disappears if the barbed devil is slain, and cannot summon devils of its own.
+ENCOUNTER BUILDING
+Level 9 XP 2,400
+Devil, Bone (Osyluth)
+Large Fiend (Devil)
+Armor Class 14
+Hit Points 95 (10d10 + 40); see Traits below
+Speed 40 ft., fly 40 ft.
+Senses darkvision 100 ft.
+Str 18 (+4)
+Dex 16 (+3)
+Con 18 (+4)
+Int 13 (+1)
+Wis 14 (+2)
+Cha 16 (+3)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Fear Aura: Any creature hostile to the devil that starts its turn within 5 feet of it must make a DC 12 Charisma saving throw. Failed Save: The creature is frightened for 1 minute. Successful Save: The creature is immune to this bone devil’s fear aura for 24 hours.
+Immunities: The bone devil is immune to fire and poison.
+Resistances: The bone devil is resistant to cold and to nonmagical weapons except those made of silver.
+Telepathy: The devil can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The devil makes two claw attacks. If it hits with both attacks, a Large or smaller target is grappled. The devil can grapple only one creature at a time.
+Melee Attack—Claw: +6 to hit (reach 5 ft.; one creature). Hit: 8 (1d8 + 4) slashing damage.
+Melee Attack—Hook: +6 to hit (reach 10 ft.; one creature). Hit: 17 (2d12 + 4) piercing damage, and a Large or smaller target is grappled. The devil can grapple only one creature at a time.
+Summon Devils (1/day): The bone devil can attempt to summon two bone devils or one ice devil with a 40% chance of success. Summoned devils appear within 50 feet of the bone devil, disappear if the bone devil is slain, and cannot summon devils of their own.
+REACTIONS
+Sting: When a creature grappled by the devil starts its turn, the devil makes the following attack against the creature.
+Melee Attack—Sting: +6 to hit (reach 10 ft.; the creature grappled by the devil). Hit: 13 (2d8 + 4) piercing damage, and the target must make a DC 12 Constitution saving throw. Failed Save: 10 (3d6) poison damage, and for 1 minute the target has disadvantage on Strength checks and Strength saving throws, and deals minimum damage on Strength-based attacks.
+ENCOUNTER BUILDING
+Level 10
+XP 3,520
+Devil, Horned (Malebranche)
+Large Fiend (Devil) Armor Class 14
+Hit Points 115 (11d10 + 55); see Traits below
+Speed 20 ft., fly 50 ft.
+Senses darkvision 100 ft.
+Str 22 (+6)
+Dex 17 (+3)
+Con 21 (+5)
+Int 15 (+2)
+Wis 16 (+3)
+Cha 17 (+3)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Ranged Attack—Hurl Flame: +6 to hit (range 100 ft.; one creature). Hit: 14 (4d6) fire damage.
+Summon Devil (1/day): The horned devil can attempt to summon another horned devil with a 50% chance of success. The summoned devil appears within 50 feet of this horned devil, disappears if this horned devil is slain, and cannot summon devils of its own.
+ENCOUNTER BUILDING
+Level 12
+XP 5,490
+Fear Aura: Any creature hostile to the horned devil that starts its turn within 5 feet of it must make a DC 13 Charisma saving throw against fear. Failed Save: The creature is frightened for 1 minute. Successful Save: The creature is immune to this horned devil’s fear aura for 24 hours.
+Immunities: The horned devil is immune to fire and poison.
+Resistances: The horned devil is resistant to cold and to nonmagical weapons except those made of silver.
+Telepathy: The horned devil can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The horned devil makes one bite attack, one claws attack, and one tail attack; or two tined fork attacks; or two hurl flame attacks.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 10 (1d8 + 6) piercing damage.
+Melee Attack—Claws: +6 to hit (reach 5 ft.; one creature). Hit: 13 (2d6 + 6) slashing damage.
+Melee Attack—Tail: +6 to hit (reach 10 ft.; one creature). Hit: 9 (1d6 + 6) piercing damage, and the target takes 5 damage at the start of each of its turns as it bleeds. If the target regains hit points or someone spends an action to bind the wound, the bleeding stops and the effect ends.
+Melee Attack—Tined Fork: +6 to hit (reach 10 ft.; one creature). Hit: 15 (2d8 + 6) piercing damage, and the target must make a DC 13 Constitution saving throw. Failed Save: The target is stunned until the end of its next turn.
+Devil, Ice (Gelugon)
+Large Fiend (Devil) Armor Class 14
+Hit Points 114 (12d10 + 48); see Traits below
+Speed 40 ft.
+Senses darkvision 100 ft.
+Str 20 (+5)
+Dex 12 (+1)
+Con 18 (+4)
+Int 18 (+4)
+Wis 15 (+2)
+Cha 20 (+5)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Ice Walk: The ice devil takes no penalty to speed while traversing ice or snow.
+Immunities: The ice devil is immune to cold, fire, and poison.
+Resistance: The ice devil is resistant to nonmagical weapons except those made of silver.
+Telepathy: The ice devil can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The ice devil makes one bite attack, one claws attack, and one tail attack.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 12 (2d6 + 5) piercing damage and 3 (1d6) cold damage.
+Melee Attack—Claws: +6 to hit (reach 5 ft.; one creature). Hit: 10 (2d4 + 5) slashing damage and 3 (1d6) cold damage.
+Melee Attack—Tail: +6 to hit (reach 10 ft.; one creature). Hit: 12 (2d6 + 5) bludgeoning damage and 3 (1d6) cold damage.
+Spellcasting: The ice devil casts one of the following spells: 1/day—detect magic, fly, ice storm, polymorph, true seeing. The ice devil uses Charisma as its magic ability score, and the saving throw DC to resist its spells is 15.
+Wall of Ice (Recharge 5-6): The ice devil creates an opaque wall of ice within 100 feet of it on a solid surface. It can create a wall 30 feet long, 10 feet high, and 1 foot wide or a hemisphere that has a 10-foot radius and is 20 feet high. In either form, the wall lasts for 10 minutes. A creature can attack the wall, which has AC 10 and 30 hit points per 10-foot section. Until the 10-minute duration
+has elapsed, any creature moving through a destroyed section takes 10 (3d6) cold damage. A creature can take this damage only once per round.
+Summon Devils (1/day): The ice devil can attempt to summon two bone devils or one ice devil with a 60% chance of success. Summoned devils appear within 50 feet of the ice devil, disappear if the ice devil is slain, and cannot summon devils of their own.
+ENCOUNTER BUILDING
+Level 12
+XP 5,490
+Customization Options
+Some ice devils have the following action options.
+Multiattack: The ice devil makes one ice spear attack and one tail attack.
+Melee Attack—Ice Spear: +6 to hit (reach 10 ft.; one creature). Hit: 14 (2d8 + 5) piercing damage and 10 cold damage, and the target must make a DC 13 Constitution saving throw. Failed Save: For the next minute, the target makes attack rolls, checks, and saving throws with disadvantage, and its speed is reduced by 10 feet. This speed reduction is cumulative with other effects that reduce the target’s speed. The target can use its action to make a DC 13 Constitution check to end the effect.
+Devil: Imp
+Tiny Fiend (Devil, Shapechanger)
+Armor Class 13
+Hit Points 7 (2d4 + 2); see Traits below
+Speed 15 ft., fly 30 ft.
+Senses darkvision 60 ft.
+Str 6 (–2)
+Dex 17 (+3)
+Con 13 (+1)
+Int 11 (+0)
+Wis 12 (+1)
+Cha 14 (+2)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Immunities: The imp is immune to fire and poison.
+Magic Resistance: The imp has advantage on saving throws against magical effects.
+Resistance: The imp is resistant to nonmagical weapons except those made of silver.
+ACTIONS
+Melee Attack—Sting: +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d4 + 3) piercing damage, and the target must make a DC 10 Constitution saving throw. Failed Save: 10 (2d8 + 1) poison damage.
+Change Shape: The imp polymorphs into a Small monstrous spider, goat, or boar, or a Tiny raven or cave rat, and can remain in this form indefinitely. The imp’s statistics do not change when assuming a new shape (except for its size). The imp reverts to its natural form when killed.
+Invisibility: The imp turns invisible until it attacks, casts a spell, or ends the effect. It can end the effect at any time without using an action.
+Suggestion (Recharge 6): The imp chooses a creature within 50 feet of it that can hear and understand it. The creature must make a DC 10 Wisdom saving throw. Failed Save: The target is charmed until the end of its next turn. During that turn, the imp can verbally control how the target uses its action and movement, but cannot command the target to harm itself.
+ENCOUNTER BUILDING
+Level 3 XP 100
+Customization Options
+Some imps have the following trait.
+Familiar: The imp can choose to serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the imp senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the imp’s Magic Resistance trait. At any time, the imp can choose to no longer serve its master as a familiar, ending the telepathic bond.
+Devil: Lemure
+Medium Fiend (Devil)
+Armor Class 9
+Hit Points 9 (2d8); see Traits below
+Speed 15 ft.
+Senses darkvision 100 ft.
+Str 10 (+0)
+Dex 8 (–1)
+Con 10 (+0)
+Int 1 (–5)
+Wis 11 (+0)
+Cha 3 (–4)
+Alignment lawful evil
+Languages —
+TRAITS
+Hellborn: While in the Nine Hells, a lemure reduced to 0 hit points or fewer re-forms at the start of its next turn with maximum hit points. If it is reduced to 0 hit points by a blessed weapon or splashed with holy water while at 0 hit points or fewer, it does not re-form and is permanently slain.
+Immunities: The lemure is immune to fire and poison. It cannot be charmed or frightened.
+ACTIONS
+Melee Attack—Slam: +4 to hit (reach 5 ft.; one creature).
+Hit: 3 (1d6) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Devil: Pit Fiend
+Large Fiend (Devil) Armor Class 17
+Hit Points 199 (19d10 + 95); see Traits below
+Speed 30 ft., fly 90 ft.
+Senses darkvision 100 ft.
+Str 26 (+8)
+Dex 13 (+1)
+Con 21 (+5)
+Int 23 (+6)
+Wis 18 (+4)
+Cha 27 (+8)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Fear Aura: Any creature hostile to the pit fiend that starts its turn within 20 feet of it must make a DC 15 Charisma saving throw. Failed Save: The target is frightened for 1 minute. Successful Save: The target is immune to this devil's fear aura for 24 hours.
+Immunities: The pit fiend is immune to fire and poison.
+Magic Resistance: The pit fiend has advantage on saving throws against magical effects.
+Immunities: The pit fiend is resistant to cold and to nonmagical weapons except those made of silver.
+Telepathy: The pit fiend can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The pit fiend makes one bite attack, one claw attack, and one constricting tail attack, or it makes one constricting tail attack and two large morningstar attacks. Before or after making these attacks, the pit fiend can cast fireball as part of the same action.
+Melee Attack—Bite: +8 to hit (reach 5 ft.; one creature). Hit: 15 (2d6 + 8) piercing damage, and the target must make a DC 15 Constitution saving throw. Failed Save: The target makes all attacks, checks, and saving throws with disadvantage, its speed is reduced by 15 feet, and it takes 5 poison damage at the start of each of its turns until it dies or until the poison is neutralized. The speed reduction is cumulative with other effects that reduce the target’s speed.
+Melee Attack—Claw: +8 to hit (reach 5 ft.; one creature). Hit: 12 (1d8 + 8) slashing damage.
+Melee Attack—Constricting Tail: +8 to hit (reach 10 ft.; one creature). The attack automatically hits a creature grappled by the pit fiend. Hit: 13 (1d10 + 8) bludgeoning damage, and a Medium or smaller target is grappled and is restrained while grappled. The pit fiend can have only one creature grappled at a time.
+Melee Attack—Large Morningstar: +10 to hit (reach 10 ft.; one creature). Hit: 17 (2d8 + 8) piercing damage.
+Spellcasting: The pit fiend casts one of the following spells: at will—detect magic, fireball, hold person, polymorph self, produce flame, pyrotechnics, true seeing, wall of fire; 1/year—wish. The pit fiend uses Charisma as its magic ability score, and the saving throw DC to resist its spells is 18.
+Sign of Agony (Recharge 6): The pit fiend inscribes a blasphemous sigil in the air that burns with unholy light and fills creatures that see it with horrific pain. Any nondevil the pit fiend chooses that can see the sigil must make a DC 15 Wisdom saving throw. Failed Save: The creature is paralyzed and takes 7 (2d6) psychic damage at the start of each of its turns for 1 minute. The only action a creature can take while paralyzed is to make a DC 15 Constitution check to end the effect.
+Summon Devils (1/day): The pit fiend can attempt to summon 1d3 barbed devils with a 60% chance of success. Summoned devils appear within 50 feet of the pit fiend, disappear if the pit fiend is slain, and cannot summon devils of their own.
+REACTIONS
+Wing Slam: When a creature moves within 10 feet of the pit fiend, it can smash the creature with its wings. The target must make a DC 15 Dexterity saving throw. Failed Save: 15 (2d6 + 8) bludgeoning damage, and the target falls prone.
+ENCOUNTER BUILDING
+Level 20
+XP 50,140
+Devil, Spined (Spinagon)
+Small Fiend (Devil)
+Armor Class 13
+Hit Points 10 (3d6); see Traits below
+Speed 20 ft., fly 30 ft.
+Senses darkvision 100 ft.
+Str 9 (–1)
+Dex 17 (+3)
+Con 10 (+0)
+Int 11 (+0)
+Wis 14 (+2)
+Cha 8 (–1)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Immunity: The spined devil is immune to fire.
+Resistances: The spined devil resistant to cold and to nonmagical weapons except those made of silver.
+Swoop: The spined devil doesn’t provoke opportunity attacks when it flies out of a hostile creature’s reach.
+Telepathy: The spined devil can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Multiattack: The spined devil makes one claws attack and one tined fork attack, or two spine attacks.
+Melee Attack—Claws: +5 to hit (reach 5 ft.; one creature).
+Hit: 4 (2d4 – 1) slashing damage.
+Melee Attack—Tined Fork: +5 to hit (reach 5 ft.; one creature). Hit: 2 (1d6 – 1) piercing damage (minimum 1 damage).
+Ranged Attack—Spine: +5 to hit (range 20 ft./80 ft.; one creature). Hit: 2 (1d4) piercing damage and 3 (1d6) fire damage. Special: The spined devil has twelve spines and regrows spines at the rate of one per hour.
+Summon Devil (1/day): A spined devil can attempt to summon 1d4 other spined devils with a 35% chance of success. Summoned devils appear within 50 feet of the spined devil, disappear if the spined devil is slain, and cannot summon devils of their own.
+ENCOUNTER BUILDING
+Level 3 XP 80
+Dinosaur: Allosaurus
+Large Beast
+Armor Class 13
+Hit Points 51 (6d10 + 18)
+Speed 60 ft.
+Str 18 (+4)
+Dex 13 (+1)
+Con 17 (+3)
+Int 2 (–4)
+Wis 9 (–1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Keen Senses: The allosaurus gains a +5 bonus to all checks to detect hidden creatures.
+ACTIONS
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 20 (3d10 + 4) piercing damage.
+Melee Attack—Claw: +6 to hit (reach 5 ft.; one creature). Hit: 11 (2d6 + 4) slashing damage.
+Dinosaur: Ankylosaurus
+Large Beast
+Armor Class 15
+Hit Points 37 (5d10 + 10)
+Speed 30 ft.
+Str 18 (+4)
+Dex 12 (+1)
+Con 15 (+2)
+Int 2 (–4)
+Wis 9 (–1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+ACTIONS
+Multiattack: The ankylosaurus makes two tail club attacks.
+Melee Attack—Tail Club: +6 to hit (reach 10 ft.; one creature). Hit: 11 (2d6 + 4) bludgeoning damage, and the target is knocked prone if it is Large or smaller.
+ENCOUNTER BUILDING
+Level 5 XP 320
+Pounce: The allosaurus moves up to its speed. If it moves at least 10 feet and ends its movement so that at least one creature is in its reach, it makes two claw attacks. If both attacks hit the same Large or smaller target, the target falls prone.
+ENCOUNTER BUILDING
+Level 5 XP 420
+Dinosaur: Plesiosaurus
+Large Beast
+Armor Class 12
+Hit Points 68 (8d10 + 24)
+Speed 20 ft., swim 40 ft.
+Str 18 (+4)
+Dex 15 (+2)
+Con 16 (+3)
+Int 2 (–4)
+Wis 9 (–1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Hold Breath: The plesiosaurus can hold its breath ten times longer than normal, and being underwater imposes no penalty on its attack rolls or checks.
+ACTIONS
+Melee Attack—Bite: +6 to hit (reach 10 ft.; one creature). Hit: 14 (3d6 + 4) piercing damage.
+ENCOUNTER BUILDING
+Level 5 XP 340
+Dinosaur: Pteranodon
+Medium Beast
+Armor Class 13
+Hit Points 13 (3d8)
+Speed 10 ft., fly 60 ft.
+Str 12 (+1)
+Dex 16 (+3)
+Con 10 (+0)
+Int 2 (–4)
+Wis 9 (–1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Swoop: The pteranodon doesn’t provoke opportunity attacks when it flies out of a hostile creature’s reach.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d10 + 1) piercing damage.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Displacer Beast
+Large Monstrosity
+Armor Class 12
+Hit Points 51 (6d10 + 18)
+Speed 40 ft.
+Senses darkvision 60 ft.
+Str 18 (+4)
+Dex 15 (+2)
+Con 16 (+3)
+Int 3 (–4)
+Wis 12 (+1)
+Cha 8 (–1)
+Alignment lawful evil
+Languages —
+TRAITS
+Avoidance: Whenever the beast makes a saving throw to take half damage from a damage source, the beast instead takes no damage on a successful saving throw, and only half damage on a failed saving throw.
+Displacement: Attack rolls made against the beast have disadvantage unless the attacker is under the effects of a true seeing spell. If the beast takes damage, this trait ceases to function until the start of the beast’s next turn. This trait also ceases to function while the beast is paralyzed, restrained, unconscious, or otherwise unable to move.
+ACTIONS
+Multiattack: The displacer beast makes two tentacle attacks.
+Melee Attack—Tentacle: +6 to hit (reach 10 ft.; one creature). Hit: 9 (1d10 + 4) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 6 XP 540
+Doppelganger
+Medium Monstrosity (Shapechanger)
+Armor Class 11
+Hit Points 18 (4d8)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 12 (+1)
+Dex 13 (+1)
+Con 10 (+0)
+Int 13 (+1)
+Wis 14 (+2)
+Cha 13 (+1)
+Alignment neutral
+Languages Common
+TRAITS
+Ambusher: The doppelganger deals 2d6 extra damage when it hits a surprised creature with an attack.
+Immunities: The doppelganger cannot be charmed or put to sleep.
+ACTIONS
+Melee Attack—Slam: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d4 + 1) bludgeoning damage.
+Melee Attack—Short Sword: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d6 + 1) piercing damage.
+Change Shape: The doppelganger polymorphs into a Small or Medium humanoid, including a specific individual it has seen. It can remain in this form indefinitely. The doppelganger’s equipment and statistics do not change (except for its size). The doppelganger reverts to its natural form when killed.
+Read Thoughts: The doppelganger chooses a creature it can see within 60 feet of it, and the chosen creature must make a DC 13 Wisdom saving throw. Failed Save: The doppelganger can read the target’s surface thoughts as long as they remain within 60 feet of one another. During that time, the doppelganger has advantage on Wisdom checks made to sense the target’s intentions, Charisma checks made to deceive the target, and Charisma checks made to impersonate the target.
+The effect can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it. The effect ends immediately if the doppelganger attempts to read a different creature’s thoughts or if either the target or the doppelganger dies.
+ENCOUNTER BUILDING
+Level 2 XP 30
+Dracolich, Green
+Huge Undead
+Armor Class 16
+Hit Points 136 (13d12 + 52); see Traits below
+Speed 60 ft., fly 150 ft., swim 60 ft.
+Senses darkvision 100 ft.
+Str 23 (+6)
+Dex 13 (+1)
+Con 18 (+4)
+Int 13 (+1)
+Wis 13 (+1)
+Cha 14 (+2)
+Alignment lawful evil
+Languages Common, Draconic
+TRAITS
+Frightful Presence: A creature that starts its turn within sight of the dracolich must make a DC 14 Wisdom saving throw. Failed Save: The target is frightened for 1 minute; while frightened, the target must use its movement to move away from the dracolich. As an action, the frightened target can make a DC 14 Wisdom or Charisma check to end this effect. Successful Save: The target is immune to the dracolich's frightful presence for the next 24 hours. This immunity also applies once the effect ends.
+Immunities: The dracolich is immune to disease and poison. It cannot be charmed, frightened, paralyzed, or polymorphed against its will, and it cannot be put to sleep. It does not need to eat or breathe.
+Keen Senses: The dracolich gains a +5 bonus to all checks to detect hidden creatures.
+Magic Resistance: The dracolich has advantage on saving throws against magical effects.
+Resistance: The dracolich is resistant to piercing damage.
+Turn Resistance: The dracolich’s hit points are doubled for the purpose of resisting turn undead effects.
+ACTIONS
+Multiattack: The dracolich makes one bite attack and two claw attacks, or one bite attack and one tail attack.
+Melee Attack—Bite: +7 to hit (reach 10 ft.; one creature). Hit: 19 (2d12 + 6) piercing damage and 7 (2d6) necrotic damage.
+Melee Attack—Claw: +7 to hit (reach 5 ft.; one creature). Hit: 15 (2d8 + 6) slashing damage and 7 (2d6) necrotic damage, and the target must make a DC 14 Constitution saving throw. Failed Save: The target is paralyzed for 1 minute but can use its action while paralyzed to make a
+DC 14 Constitution check. If the check succeeds, the effect ends.
+Melee Attack—Tail: +7 to hit (reach 10 ft.; one creature). Hit: 15 (2d8 + 6) bludgeoning damage and, if the target is Large or smaller, the dracolich either pushes the target up to 10 feet away or knocks it prone (dracolich's choice).
+Poison Breath (Recharge 5–6): The dracolich breathes poisonous gas in a 60-foot cone. Each creature in the area must make a DC 14 Constitution saving throw. Failed Save: 22 (4d8 + 4) poison damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 14
+XP 11,440
+Customization Options
+Some dracoliches have the following trait.
+Dominate Undead: Undead creatures with 25 hit points or less that are within 100 feet of the dracolich are under its control. If a susceptible undead creature is already under the control of another creature, the dracolich can gain control of it as an action by defeating the controlling creature in a Charisma contest.
+Some dracoliches have the following reaction option.
+Dreadful Gaze: When a hostile living creature starts its turn within 60 feet of the dracolich, it must make a DC 14 Charisma saving throw. Failed Save: The target is paralyzed until the start of its next turn. This is a fear effect. Successful Save: The target is immune to the dragon’s dreadful gaze for 24 hours.
+The Dracolich’s Phylactery
+A dracolich’s spirit returns to its magic phylactery 1d10 days after the dracolich is destroyed. A dracolich’s phylactery usually takes the form of a gem, statuette, or amulet. The only way to get rid of a dracolich permanently is to destroy its phylactery.
+A dracolich spirit is trapped in its phylactery and remains dormant until the phylactery comes into contact with another dragon’s corpse, at which point the dracolich's spirit can immediately take possession of the corpse, becoming a “proto-dracolich.” In this new form, it loses its Dominate Undead trait and its dreadful gaze and poison breath actions until it consumes at least a portion of its original body.
+Dragon, Black
+Huge Dragon
+Armor Class 15
+Hit Points 126 (12d12 + 48)
+Speed 60 ft., fly 150 ft., swim 60 ft.
+Senses blindsight 60 ft., darkvision 120 ft.
+Str 23 (+6)
+Dex 10 (+0)
+Con 19 (+4)
+Int 12 (+1)
+Wis 13 (+1)
+Cha 12 (+1)
+Alignment chaotic evil
+Languages Common, Draconic
+TRAITS
+Aquatic: The dragon can breathe underwater, and being underwater imposes no penalty on its attack rolls or checks.
+Frightful Presence: A creature that starts its turn within sight of the dragon must make a DC 14 Wisdom saving throw. Failed Save: The target is frightened for 1 minute; while frightened, the target must use its movement to move away from the dragon. As an action, the frightened target can make a DC 14 Wisdom or Charisma check to end this effect. Successful Save: The target is immune to the dragon’s frightful presence for the next 24 hours. This immunity also applies once the effect ends.
+Immunities: The dragon is immune to acid. It cannot be paralyzed or put to sleep.
+Keen Senses: The dragon gains a +5 bonus to all checks to detect hidden creatures.
+Magic Resistance: The dragon has advantage on saving throws against magical effects.
+ACTIONS
+Multiattack: The dragon makes one bite attack and two claw attacks, or one bite attack and one tail attack.
+Melee Attack—Bite: +9 to hit (reach 10 ft.; one creature). Hit: 13 (2d6 + 6) piercing damage.
+Melee Attack—Claw: +9 to hit (reach 5 ft.; one creature). Hit: 10 (1d8 + 6) slashing damage.
+Melee Attack—Tail: +9 to hit (reach 10 ft.; one creature). Hit: 10 (1d8 + 6) bludgeoning damage and, if the target is Large or smaller, the dragon either pushes the target up to 10 feet away or knocks it prone (dragon’s choice).
+Acid Breath (Recharge 5–6): The dragon breathes acid in an 80-foot line. Each creature in the line must make a DC 16 Dexterity saving throw. Failed Save: 18 (4d6 + 4) acid damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 10
+XP 3,920
+Dragon, Blue
+Huge Dragon
+Armor Class 16
+Hit Points 161 (14d12 + 70)
+Speed 60 ft., burrow 30 ft., fly 150 ft.
+Senses blindsight 50 ft., darkvision 100 ft.
+Str 24 (+7)
+Dex 13 (+1)
+Con 20 (+5)
+Int 14 (+2)
+Wis 14 (+2)
+Cha 16 (+3)
+Alignment lawful evil
+Languages Common, Draconic
+TRAITS
+Frightful Presence: A creature that starts its turn within sight of the dragon must make a DC 13 Wisdom saving throw. Failed Save: The target is frightened for 1 minute; while frightened, the target must use its movement to move away from the dragon. As an action, the frightened target can make a DC 13 Wisdom or Charisma check to end this effect. Successful Save: The target is immune to the dragon’s frightful presence for the next 24 hours. This immunity also applies once the effect ends.
+Immunities: The dragon is immune to lightning. It cannot be paralyzed or put to sleep.
+Keen Senses: The dragon gains a +5 bonus to all checks to detect hidden creatures.
+Magic Resistance: The dragon has advantage on saving throws against magical effects.
+ACTIONS
+Multiattack: The dragon makes one bite attack and two claw attacks, or one bite attack and one tail attack.
+Melee Attack—Bite: +7 to hit (reach 10 ft.; one creature). Hit: 23 (3d10 + 7) piercing damage.
+Melee Attack—Claw: +7 to hit (reach 5 ft.; one creature). Hit: 11 (1d8 + 7) slashing damage.
+Melee Attack—Tail: +7 to hit (reach 10 ft.; one creature). Hit: 20 (2d12 + 7) bludgeoning damage and, if the target is Large or smaller, the dragon either pushes the target up to 10 feet away or knocks it prone (dragon’s choice).
+Lightning Breath (Recharge 5-6): The dragon breathes lightning in a 100-foot line. Each creature in the area must make a DC 13 Dexterity saving throw. Failed Save: 21 (3d10 + 5) lightning damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 12
+XP 6,340
+Dragon, Green
+Huge Dragon
+Armor Class 16
+Hit Points 127 (12d12 + 55)
+Speed 60 ft., fly 150 ft., swim 60 ft.
+Senses darkvision 100 ft.
+Str 23 (+6)
+Dex 13 (+1)
+Con 20 (+5)
+Int 13 (+1)
+Wis 13 (+1)
+Cha 14 (+2)
+Alignment lawful evil
+Languages Common, Draconic
+TRAITS
+Aquatic: The dragon can breathe underwater, and being underwater imposes no penalty on its attack rolls or checks.
+Immunities: The dragon is immune to poison. It cannot be paralyzed or put to sleep.
+Frightful Presence: A creature that starts its turn within sight of the dragon must make a DC 14 Wisdom saving throw. Failed Save: The target is frightened for 1 minute; while frightened, the target must use its movement to move away from the dragon. As an action, the frightened target can make a DC 14 Wisdom or Charisma check to end this effect. Successful Save: The target is immune to the dragon’s frightful presence for the next 24 hours. This immunity also applies once the effect ends.
+Keen Senses: The dragon gains a +5 bonus to all checks to detect hidden creatures.
+Magic Resistance: The dragon has advantage on saving throws against magical effects.
+ACTIONS
+Multiattack: The dragon makes one bite attack and two claw attacks, or one bite attack and one tail attack.
+Melee Attack—Bite: +7 to hit (reach 10 ft.; one creature). Hit: 19 (2d12 + 6) piercing damage.
+Melee Attack—Claw: +7 to hit (reach 5 ft.; one creature). Hit: 15 (2d8 + 6) slashing damage.
+Melee Attack—Tail: +7 to hit (reach 10 ft.; one creature). Hit: 15 (2d8 + 6) bludgeoning damage and, if the target is Large or smaller, the dragon either pushes the target up to 10 feet away or knocks it prone (dragon’s choice).
+Poison Breath (Recharge 5–6): The dragon breathes poisonous gas in a 60-foot cone. Each creature in the area must make a DC 14 Constitution saving throw. Failed Save: 25 (6d6 + 4) poison damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 12
+XP 5,310
+Dragon, Red
+Huge Dragon
+Armor Class 15
+Hit Points 172 (15d12 + 75)
+Speed 60 ft., fly 150 ft.
+Senses darkvision 100 ft.
+Str 25 (+7)
+Dex 10 (+0)
+Con 21 (+5)
+Int 11 (+0)
+Wis 11 (+0)
+Cha 19 (+4)
+Alignment chaotic evil
+Languages Common, Draconic
+TRAITS
+Frightful Presence: A creature that starts its turn within sight of the dragon must make a DC 14 Wisdom saving throw. Failed Save: The target is frightened for 1 minute; while frightened, the target must use its movement to move away from the dragon. As an action, the frightened target can make a DC 14 Wisdom or Charisma check to end this effect. Successful Save: The target is immune to the dragon’s frightful presence for the next 24 hours. This immunity also applies once the effect ends.
+Immunities: The dragon is immune to fire. It cannot be paralyzed or put to sleep.
+Keen Senses: The dragon gains a +5 bonus to all checks to detect hidden creatures.
+Magic Resistance: The dragon has advantage on saving throws against magical effects.
+ACTIONS
+Multiattack: The dragon makes one bite attack and two claw attacks, or one bite attack and one tail attack.
+Melee Attack—Bite: +7 to hit (reach 10 ft.; one creature). Hit: 33 (4d12 + 7) piercing damage.
+Melee Attack—Claw: +6 to hit (reach 5 ft.; one creature). Hit: 20 (3d8 + 7) slashing damage.
+Melee Attack—Tail: +6 to hit (reach 10 ft.; one creature). Hit: 18 (2d10 + 7) bludgeoning damage and, if the target is Large or smaller, the dragon either pushes the target up to 10 feet away or knocks it prone (dragon’s choice).
+Fire Breath (Recharge 5–6): The dragon breathes fire in a 60-foot cone. Each creature in the area must make a DC 14 Dexterity saving throw. Failed Save: 29 (7d6 + 5) fire damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 13
+XP 10,140
+Dragon, White
+Huge Dragon
+Armor Class 15
+Hit Points 115 (11d12 + 44)
+Speed 60 ft., fly 150 ft.
+Senses blindsight 60 ft., darkvision 120 ft.
+Str 23 (+6)
+Dex 10 (+0)
+Con 19 (+4)
+Int 7 (–2)
+Wis 11 (+1)
+Cha 12 (+1)
+Alignment chaotic evil
+Languages Common, Draconic
+TRAITS
+Frightful Presence: A creature that starts its turn within sight of the dragon must make a DC 14 Wisdom saving throw. Failed Save: The target is frightened for 1 minute; while frightened, the target must use its movement to move away from the dragon. As an action, the frightened target can make a DC 14 Wisdom or Charisma check to end this effect. Successful Save: The target is immune to the dragon’s frightful presence for the next 24 hours. This immunity also applies once the effect ends.
+Ice Walk: The dragon takes no penalty to speed while traversing ice or snow.
+Immunities: The dragon is immune to cold. It cannot be paralyzed or put to sleep.
+Keen Senses: The dragon gains a +5 bonus to all checks to detect hidden creatures.
+Magic Resistance: The dragon has advantage on saving throws against magical effects.
+ACTIONS
+Multiattack: The dragon makes one bite attack and two claw attacks, or one bite attack and one tail attack.
+Melee Attack—Bite: +7 to hit (reach 10 ft.; one creature). Hit: 20 (4d6 + 6) piercing damage.
+Melee Attack—Claw: +7 to hit (reach 5 ft.; one creature). Hit: 10 (1d8 + 6) slashing damage.
+Melee Attack—Tail: +7 to hit (reach 10 ft.; one creature). Hit: 10 (1d8 + 6) bludgeoning damage and, if the target is Large or smaller, the dragon either pushes the target up to 20 feet away or knocks it prone (dragon’s choice).
+Cold Breath (Recharge 5–6): The dragon breathes an icy blast of hail in a 60-foot cone. Each creature in the area
+must make a DC 14 Dexterity saving throw. Failed Save: 25 (4d6 + 4) cold damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 10
+XP 3,250
+Drow
+Medium Humanoid (Elf)
+Armor Class 15 (drow chain)
+Hit Points 27 (6d8)
+Speed 30 ft.
+Senses darkvision 120 ft.
+Str 10 (+0)
+Dex 15 (+2)
+Con 10 (+0)
+Int 13 (+1)
+Wis 14 (+2)
+Cha 12 (+1)
+Alignment chaotic evil
+Languages Common, Elvish, Undercommon
+TRAITS
+Light Sensitivity: While in sunlight, the drow has disadvantage on attack rolls.
+Magic Resistance: The drow has advantage on saving throws against magical effects.
+Stealthy +5: The drow gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Multiattack: The drow makes two short sword attacks, two hand crossbow attacks, or one short sword attack and one hand crossbow attack.
+Melee Attack—Short Sword: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage.
+Ranged Attack—Hand Crossbow: +7 to hit (range 30/120 ft.; one creature). Hit: 5 (1d6 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw. Failed Save: The target takes a 5-foot penalty to speed and a –1 penalty to AC and Dexterity saving throws for 1d6 hours.
+This is a poison effect. Multiple applications of the poison are cumulative. If the speed penalty reaches 20 feet or greater, the target falls unconscious for 1d8 hours.
+Spellcasting: The drow casts one of the following spells: 1/day—darkness, faerie fire.
+ENCOUNTER BUILDING
+Level 4 XP 160
+Dryad
+Medium Fey
+Armor Class 12
+Hit Points 14 (4d6)
+Speed 30 ft.
+Senses low-light vision, tremorsense 60 ft.
+Str 10 (+0)
+Dex 15 (+2)
+Con 11 (+0)
+Int 14 (+2)
+Wis 15 (+2)
+Cha 18 (+4)
+Alignment neutral
+Languages Elvish, Sylvan
+TRAITS
+Magic Resistance: The dryad has advantage on saving throws against magical effects.
+Speak with Plants: Dryads can communicate with plants, including normal plants and plant creatures, as though they shared a common language.
+Tree Stride: A dryad can move into a Medium or larger tree and exit from any other Medium or larger tree within 50 feet.
+ACTIONS
+Melee Attack—Dagger: +6 to hit (reach 5 ft.; one creature). Hit: 4 (1d4 + 2) piercing damage.
+Dominate Person: The dryad chooses one living humanoid within 50 feet of it that it hasn’t attacked. The target must make a DC 12 Wisdom saving throw. Failed Save: The target is charmed for 1 day or until the dryad or one of the dryad’s companions harms it, or until the dryad is killed. While charmed, the target must also obey the dryad’s commands. The dryad can have only one creature charmed at a time. If the charmed creature takes any damage, it can make a DC 12 Wisdom saving throw to end the effect.
+A creature charmed by this effect remembers being charmed. A creature that succeeds on its saving throw against this effect is immune to this dryad’s dominate person effect for 24 hours.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Elemental, Air
+Large Elemental (Air)
+Armor Class 13
+Hit Points 45 (7d10 + 7); see Traits below
+Speed 0 ft., fly 60 ft.
+Senses darkvision 60 ft.
+Str 14 (+2)
+Dex 17 (+3)
+Con 13 (+1)
+Int 6 (–2)
+Wis 10 (+0)
+Cha 10 (+0)
+Alignment neutral
+Languages Auran
+TRAITS
+Immunities: The elemental is immune to disease and poison. It cannot be knocked prone, paralyzed, turned to stone, or put to sleep. It does not need to sleep, eat, or breathe.
+Resistances: The elemental is resistant to lightning, thunder, and nonmagical weapons.
+ACTIONS
+Melee Attack—Slam: +5 to hit (reach 5 ft.; one creature). Hit: 11 (2d8 + 2) bludgeoning damage.
+Melee Attack—Whirlwind (Recharge 5–6): +4 to hit (reach 5 ft.; one creature). Hit: 9 (2d6 + 2) bludgeoning damage, and the target must make a DC 12 Strength saving throw if it is Large or smaller. Failed Save: The target is engulfed. While engulfed, the target is pulled into the elemental’s space and restrained, and it takes 9 (2d6 + 2) bludgeoning damage at the start of each of the elemental’s turns until it escapes. The target can escape by making a DC 11 Strength or Dexterity check as part of its movement. On a success, the target is no longer restrained and can complete its movement.
+A creature next to the elemental can pull a creature or object out of it with a DC 11 Strength check as an action.
+The elemental can engulf up to one Large creature or up to four Medium or smaller creatures at a time.
+When the elemental moves, any creatures it has engulfed automatically move with it.
+ENCOUNTER BUILDING
+Level 5 XP 350
+Elemental, Earth
+Large Elemental (Earth)
+Armor Class 13
+Hit Points 68 (8d10 + 24); see Traits below
+Speed 30 ft.
+Str 19 (+4)
+Dex 8 (–1)
+Con 16
++3)
+Int 5 (–3)
+Wis 10 (+0)
+Cha 10
++0)
+Alignment neutral
+Languages Terran
+TRAITS
+Earth Glide: The earth elemental can move through stone, dirt, or any other sort of rock (except metal) as if that material weren’t there, leaving no sign of its passage.
+Immunities: The elemental is immune to disease and poison, and it cannot be paralyzed, turned to stone, or put to sleep. It does not need to sleep, eat, or breathe.
+Resistance: The elemental is resistant to nonmagical weapons.
+Vulnerability: The elemental is vulnerable to thunder.
+ACTIONS
+Melee Attack—Slam: +6 to hit (reach 10 ft.; one creature). Hit: 17 (3d8 + 4) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 6 XP 970
+Elemental, Fire
+Large Elemental (Fire)
+Armor Class 12
+Hit Points 52 (7d10 + 14); see Traits below
+Speed 50 ft.
+Str 10 (+0)
+Dex 15 (+2)
+Con 14
++2)
+Int 6 (–2)
+Wis 10 (+0)
+Cha 10
++0)
+Alignment neutral
+Languages Ignan
+TRAITS
+Checked by Water: A fire elemental takes 5 cold damage each time it starts its turn in a body of water of its size or larger. Fire elementals cannot willingly cross bodies of water 10 feet wide or wider.
+Immunities: The elemental is immune to disease, fire, and poison. It cannot be knocked prone, paralyzed, turned to stone, or put to sleep. It does not need to sleep, eat, or breathe.
+Resistance: The elemental is resistant to nonmagical weapons.
+ACTIONS
+Melee Attack—Slam: +6 to hit (reach 5 ft.; one creature). Hit: 10 (3d6) fire damage, and the target must make a DC 13 Dexterity saving throw. Failed Save: The target catches fire and takes 3 (1d6) fire damage at the start of each of its turns. A creature can use its action to extinguish the flames, which ends this effect. Any event that smothers the fire likewise ends the effect.
+ENCOUNTER BUILDING
+Level 6 XP 570
+Elemental, Water
+Large Elemental (Water)
+Armor Class 12
+Hit Points 60 (8d10 + 16); see Traits below
+Speed 40 ft., swim 40 ft.
+Senses darkvision 60 ft.
+Str 18 (+4)
+Dex 14 (+2)
+Con 14 (+2)
+Int 5 (–3)
+Wis 10 (+0)
+Cha 10 (+0)
+Alignment neutral
+Languages Aquan
+TRAITS
+Immunities: The elemental is immune to disease and poison. It cannot be knocked prone, paralyzed, turned to stone, or put to sleep. It does not need to sleep, eat, or breathe.
+Formless: The elemental can squeeze through gaps that are at least 1 inch wide.
+Freeze: When the elemental takes cold damage, it partially freezes. Until the end of its next turn, it loses its resistances and has its speed reduced by 20 feet.
+Resistance: The elemental is resistant to acid and to nonmagical weapons.
+ACTIONS
+Melee Attack—Slam: +6 to hit (reach 5 ft.; one creature). Hit: 18 (4d6 + 4) bludgeoning damage.
+Melee Attack—Engulf (Recharge 5–6): +6 to hit (reach 5 ft.; one creature). Hit: 18 (4d6 + 4) bludgeoning damage, and the target must make a DC 12 Strength saving throw if it is Large or smaller. Failed Save: The target is engulfed. While engulfed, the target is pulled into the elemental’s space and restrained, and it takes 9 (2d6 + 2) bludgeoning damage at the start of each of the elemental’s turns until it escapes. The target can escape by making a DC 12 Strength or Dexterity check as part of its movement. On a success, the target is no longer restrained and can complete its movement.
+A creature next to the elemental can pull a creature or object out of it with a DC 12 Strength check as an action.
+The elemental can engulf up to one Large creature or up to four Medium or smaller creatures at a time.
+When the elemental moves, any creatures it has engulfed automatically move with it.
+ENCOUNTER BUILDING
+Level 6 XP 870
+Ettin
+Large Giant
+Armor Class 11 (hide)
+Hit Points 63 (6d10 + 30)
+Speed 40 ft.
+Str 21 (+5)
+Dex 8 (–1)
+Con 20 (+5)
+Int 6 (–2)
+Wis 10 (+0)
+Cha 11 (+0)
+Alignment chaotic evil
+Languages Giant
+TRAITS
+Two-Headed: The ettin has advantage on checks to detect hidden creatures as well as advantage on saving throws made to resist being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+Vigilant: The ettin is never surprised.
+ACTIONS
+Multiattack: The ettin makes two greatclub attacks.
+Melee Attack—Greatclub: +7 to hit (reach 5 ft.; one creature). Hit: 14 (2d8 + 5) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 6 XP 830
+Frog, Giant
+Medium Beast
+Armor Class 12
+Hit Points 11 (2d8 + 2)
+Speed 15 ft., swim 30 ft.
+Str 14 (+2)
+Dex 12 (+1)
+Con 12 (+1)
+Int 1 (–5)
+Wis 11 (+0)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Aquatic: The frog can breathe underwater, and being underwater imposes no penalty on its attack rolls or checks.
+Stealthy +5: The frog gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 7 (2d4 + 2) piercing damage, and the target is grappled. While the frog has a creature grappled, the frog can bite only that creature, but the frog has advantage when it does so.
+Melee Attack—Sticky Tongue: +5 to hit (reach 15 ft.; one creature). The frog cannot use this attack if a creature is grappled by the frog. Hit: If the target is Medium or smaller, the giant frog pulls the target up to 15 feet and can make a bite attack as part of the same action.
+Swallow Whole: While grappling a Small or smaller creature, the frog can make a bite attack against the creature, and if the frog hits, it also swallows the creature. A frog can swallow one creature at a time.
+A swallowed creature takes 3 (1d4 + 1) acid damage at the start of each of the frog’s turns until it escapes. A swallowed creature is blinded and restrained, but it can use its action to cut its way free by dealing enough piercing or slashing damage to kill the frog. A creature that frees itself falls prone in an unoccupied space within 5 feet of the frog.
+ENCOUNTER BUILDING
+Level 2 XP 30
+Gargoyle
+Medium Monstrosity
+Armor Class 13
+Hit Points 30 (4d8 + 12); see Traits below
+Speed 40 ft., fly 60 ft.
+Senses darkvision 60 ft.
+Str 15 (+2)
+Dex 14 (+2)
+Con 16 (+3)
+Int 6 (–2)
+Wis 11 (+0)
+Cha 7 (–2)
+Alignment lawful evil
+Languages Common, Terran
+TRAITS
+Hide in Plain Sight: The gargoyle can hold itself so still that it appears to be an inanimate statue. A DC 17 Intelligence or Wisdom check reveals that the statue is, in fact, a gargoyle.
+Resistance: The gargoyle is resistant to nonmagical weapons except those made of adamantine.
+ACTIONS
+Multiattack: The gargoyle makes one bite attack, one claws attacks, and one gore attack.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage.
+Melee Attack—Claws: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) slashing damage.
+Melee Attack—Gore: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d4 + 2) piercing damage.
+ENCOUNTER BUILDING
+Level 5 XP 330
+Gelatinous Cube
+Large Ooze
+Armor Class 6
+Hit Points 73 (7d10 + 35)
+Speed 15 ft.
+Senses blindsight 60 ft.
+Str 10 (+0)
+Dex 3 (–4)
+Con 20 (+5)
+Int 1 (–5)
+Wis 10 (+0)
+Cha 1 (–5)
+Alignment unaligned
+Languages —
+TRAITS
+Immunities: The cube cannot be charmed or frightened.
+Shaped Ooze: The cube takes up its entire 10-foot space. Given its stable form, the cube cannot be knocked prone.
+Transparent: The cube is hard to spot, even when it is in plain sight. It takes a successful DC 12 Intelligence or Wisdom check to spot a cube that has neither moved nor attacked while being observed. A creature that tries to enter the cube’s space while unaware of the cube is automatically engulfed per the cube’s slam attack.
+ACTIONS
+Melee Attack—Slam: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d6) bludgeoning damage plus 3 (1d6) acid damage, and the target must make a DC 11 Strength saving throw. Failed Save: The target is engulfed. While engulfed, the target is pulled into the cube and restrained, and it takes 7 (2d6) acid damage at the start of each of the cube’s turns until it escapes. The target can escape by making a DC 11 Strength or Dexterity check as part of its movement. On a success, the target is no longer restrained and can complete its movement.
+A creature engulfed by the cube can’t be targeted by attacks, spells, and other effects. An area of effect that includes the cube does not also include anything engulfed in it.
+A creature next to the cube can pull a creature or object out of it with a DC 11 Strength check made as an action, but doing so triggers an opportunity attack from the cube.
+The cube can engulf up to one Large creature or up to four Medium or smaller creatures at a time.
+ENCOUNTER BUILDING
+Level 4 XP 250
+Ghost
+Medium Undead
+Armor Class 11
+Hit Points 32 (5d12); see Traits below
+Speed 30 ft., fly 40 ft.
+Senses darkvision 60 ft.
+Str 9 (–1)
+Dex 13 (+1)
+Con 10 (+0)
+Int 10 (+0)
+Wis 12 (+1)
+Cha 14 (+2)
+Alignment any
+Languages Common
+TRAITS
+Ethereal: The ghost is ethereal.
+Immunities: The ghost is immune to disease, necrotic, petrification, and poison. It cannot be charmed, frightened, paralyzed, or put to sleep. It does not need to sleep, eat, or breathe.
+ACTIONS
+Melee Attack—Corrupting Touch: +5 to hit (reach 5 ft.; one creature). Hit: 9 (2d6 + 2) necrotic damage.
+Horrifying Visage: Each creature within 50 feet of the ghost that can see it must make a DC 10 Wisdom saving throw. Failed Save: The creature is frightened for 1 minute. As an action, the frightened creature can make a DC 10 Wisdom check to end this effect. Successful Save: The creature is immune to the ghost’s horrifying visage for the next 24 hours. This immunity also applies once the effect ends.
+Possession (Recharge 6): The ghost chooses a living creature within 5 feet of it. The chosen creature must make a DC 10 Wisdom saving throw. Failed Save: The ghost vanishes into the target. The target can use its action to make a DC 10 Wisdom check. If the check fails or is not made, then for the next 24 hours, the ghost controls the target.
+While possessing the target, the ghost cannot recharge this action. The ghost can end the possession at any time by moving out of the target. A turn undead effect or a lesser restoration spell that targets the possessed creature automatically drives out the ghost. The ghost must also leave a target that drops to 0 hit points or fewer. Whether the ghost leaves voluntarily or by force, it reappears in a space within 5 feet of its former host.
+Successful Save: The target is not possessed and is immune to the ghost’s possession for the next 24 hours.
+ENCOUNTER BUILDING
+Level 5 XP 280
+Ghoul
+Medium Undead
+Armor Class 12
+Hit Points 18 (4d8); see Traits below
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 13 (+1)
+Dex 15 (+2)
+Con 10 (+0)
+Int 10 (+0)
+Wis 10 (+0)
+Cha 8 (–1)
+Alignment chaotic evil
+Languages Common
+TRAITS
+Immunities: The ghoul is immune to disease and poison. It cannot be charmed, frightened, or put to sleep. It does not need to sleep, eat, or breathe.
+Resistance: The ghoul is resistant to necrotic.
+ACTIONS
+Multiattack: The ghoul makes one bite attack and two claw attacks.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d6 + 1) piercing damage, and the target must make a DC 12 Constitution saving throw (elves are immune). Failed Save: The target is paralyzed for 1 minute but can use an action while paralyzed to make a DC 12 Constitution check. If the check succeeds, the paralysis ends.
+Melee Attack—Claw: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d4 + 1) slashing damage, and the target must make a DC 12 Constitution saving throw (elves are immune). Failed Save: The target is paralyzed for 1 minute but can use an action while paralyzed to make a DC 12 Constitution check. If the check succeeds, the paralysis ends.
+ENCOUNTER BUILDING
+Level 3 XP 80
+Giant, Cloud
+Huge Giant
+Armor Class 17 (banded mail)
+Hit Points 161 (14d12 + 70)
+Speed 50 ft., fly 20 ft.
+Senses low-light vision
+Str 27 (+8)
+Dex 13 (+1)
+Con 21 (+5)
+Int 12 (+1)
+Wis 16 (+3)
+Cha 13 (+1)
+Alignment neutral good (50%) or neutral evil (50%) Languages Common, Giant
+ACTIONS
+Multiattack: The cloud giant makes two morningstar attacks.
+Melee Attack—Morningstar: +10 to hit (reach 10 ft.; one creature). Hit: 26 (4d8 + 8) piercing damage.
+Ranged Attack—Rock: +8 to hit (range 60 ft./240 ft.; one creature). Hit: 30 (4d10 + 8) bludgeoning damage.
+Fog Cloud (Recharge 6): The cloud giant creates a 60-foot- radius cloud of fog centered on itself. The area within the cloud is lightly obscured. The cloud lasts for 1 minute or until dispelled. A moderate wind (at least 11 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 21 miles per hour) disperses it after 1 round.
+ENCOUNTER BUILDING
+Level 12
+XP 6,080
+Giant, Fire
+Huge Giant (Fire)
+Armor Class 18 (plate mail)
+Hit Points 137 (11d12 + 66); see Traits below
+Speed 30 ft.
+Str 25 (+7)
+Dex 11 (+0)
+Con 23 (+6)
+Int 9 (–1)
+Wis 12 (+1)
+Cha 11 (+0)
+Alignment lawful evil
+Languages Giant
+TRAITS
+Immunity: The giant is immune to fire.
+ACTIONS
+Multiattack: The fire giant makes two greatsword attacks.
+Melee Attack—Greatsword: +9 to hit (reach 10 ft.; one creature). Hit: 26 (3d12 + 7) slashing damage.
+Ranged Attack—Rock: +6 to hit (range 90 ft./360 ft.; one creature). Hit: 23 (3d10 + 7) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 11
+XP 4,370
+Giant, Frost
+Huge Giant
+Armor Class 16 (dragon scale mail)
+Hit Points 126 (11d12 + 55); see Traits below
+Speed 40 ft.
+Str 23 (+6)
+Dex 12 (+1)
+Con 21 (+5)
+Int 7 (–2)
+Wis 10 (+0)
+Cha 8 (–1)
+Alignment neutral evil
+Languages Common, Giant
+TRAITS
+Ice Walk: The giant takes no penalty to speed while traversing ice or snow.
+Immunity: The frost giant is immune to cold.
+ACTIONS
+Multiattack: The frost giant makes two greataxe attacks.
+Melee Attack—Greataxe: +7 to hit (reach 15 ft.; one creature). Hit: 25 (3d12 + 6) slashing damage.
+Ranged Attack—Rock: +5 to hit (range 60 ft./240 ft.; one creature). Hit: 22 (3d10 + 6) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 10 XP 3,020
+Giant, Hill
+Huge Giant
+Armor Class 11 (hide)
+Hit Points 76 (8d10 + 32)
+Speed 40 ft.
+Str 21 (+5)
+Dex 8 (–1)
+Con 18 (+4)
+Int 6 (–2)
+Wis 8 (–1)
+Cha 7 (–2)
+Alignment neutral evil
+Languages Common, Giant
+ACTIONS
+Multiattack: The hill giant makes two greatclub attacks.
+Melee Attack—Greatclub: +6 to hit (reach 10 ft.; one creature). Hit: 14 (2d8 + 5) bludgeoning damage.
+Ranged Attack—Rock: +5 to hit (range 60 ft./240 ft.; one creature). Hit: 16 (2d10 + 5) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 6 XP 720
+Giant, Stone
+Huge Giant
+Armor Class 15
+Hit Points 103 (9d12 + 45)
+Speed 40 ft.
+Str 23 (+6)
+Dex 15 (+2)
+Con 20 (+5)
+Int 10 (+0)
+Wis 12 (+1)
+Cha 11 (+0)
+Alignment neutral
+Languages Common, Giant
+ACTIONS
+Multiattack: The stone giant makes two greatclub attacks.
+Melee Attack—Greatclub: +7 to hit (reach 15 ft.; one creature). Hit: 19 (3d8 + 6) bludgeoning damage.
+Ranged Attack—Rock: +6 to hit (range 100 ft./300 ft.; one creature). Hit: 22 (3d10 + 6) bludgeoning damage. Miss: If the stone giant rolls a result of 16 or higher on the attack roll, the target still takes half damage.
+REACTIONS
+Rock Catching: When a rock or similar object is hurled at the stone giant, the giant can catch it with a successful DC 12 Dexterity check. If the check succeeds, the giant takes no damage from the hurled object.
+ENCOUNTER BUILDING
+Level 7 XP 1,800
+Giant, Storm
+Huge Giant
+Armor Class 18 (plate mail)
+Hit Points 161 (14d12 + 70); see Traits below
+Speed 50 ft., fly 20 ft., swim 50 ft.
+Str 29 (+9)
+Dex 12 (+1)
+Con 20 (+5)
+Int 16 (+3)
+Wis 14 (+2)
+Cha 17 (+3)
+Alignment chaotic good
+Languages Common, Giant
+TRAITS
+Aquatic: The giant can breathe underwater, and being underwater imposes no penalty on its attack rolls or checks.
+Immunities: The giant is immune to lightning and thunder.
+Resistance: The giant is resistant to cold.
+ACTIONS
+Multiattack: The storm giant can make two greatsword attacks, two lightning bolt attacks, or one greatsword attack and one lightning bolt attacks.
+Melee Attack—Greatsword: +11 to hit (reach 15 ft.; one creature). Hit: 28 (3d12 + 9) slashing damage.
+Ranged Attack—Lightning Bolt: +7 to hit (range 240 ft.; one creature). Hit: 27 (6d8) lightning damage.
+Spellcasting: The storm giant casts one of the following spells: 1/day—cone of cold, ice storm. The storm giant uses Charisma as its magic ability, and the saving throw DC to resist its spells is 13.
+Summon Thunderstorm (Recharge 5-6): The storm giant creates a thunderstorm in the sky across a 3-mile-radius area that lasts for 10 minutes. The storm produces rain that lightly obscures the area beneath it. At the start of each of the giant's turns, roll a d6. On a result of 6, the giant can use its lightning bolt attack on any creature it can see within the thunderstorm’s area (no action).
+ENCOUNTER BUILDING
+Level 13
+XP 7,750
+Gnoll
+Medium Humanoid (Gnoll)
+Armor Class 15 (leather, shield)
+Hit Points 13 (3d8)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 14 (+2)
+Dex 15 (+2)
+Con 11 (+0)
+Int 7 (–2)
+Wis 10 (+0)
+Cha 8 (–1)
+Alignment chaotic evil
+Languages Common, Gnoll
+ACTIONS
+Melee Attack—Battleaxe: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) slashing damage.
+Ranged Attack—Longbow: +5 to hit (range 150 ft./600 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage.
+REACTIONS
+Blood Frenzy: When a hostile creature drops to 0 hit points or fewer within 10 feet of it, the gnoll makes a melee attack with disadvantage.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Gnoll Leader (Packlord)
+Medium Humanoid (Gnoll)
+Armor Class 16 (chain mail)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 17 (+3)
+Dex 16 (+3)
+Con 13 (+1)
+Int 9 (–1)
+Wis 11 (+0)
+Cha 10 (+0)
+Alignment chaotic evil
+Languages Common, Gnoll
+TRAITS
+Incite Blood Frenzy: The gnoll grants creatures of its choice within 30 feet of it (not counting itself) a +4 bonus to damage rolls when they use the blood frenzy reaction. Multiple bonuses granted by this trait do not stack.
+ACTIONS
+Multiattack: The gnoll makes two greataxe attacks or two longbow attacks.
+Melee Attack—Greataxe: +5 to hit (reach 5 ft.; one creature). Hit: 9 (1d12 + 3) slashing damage.
+Ranged Attack—Longbow: +5 to hit (range 150 ft./600 ft.; one creature). Hit: 7 (1d8 + 3) piercing damage.
+REACTIONS
+Blood Frenzy: When a hostile creature drops to 0 hit points or fewer within 10 feet of it, the gnoll makes a melee attack with disadvantage.
+ENCOUNTER BUILDING
+Level 4 XP 180
+Goblin
+Small Humanoid (Goblinoid)
+Armor Class 14 (leather, shield)
+Hit Points 3 (1d6)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 8 (–1)
+Dex 13 (+1)
+Con 10 (+0)
+Int 10 (+0)
+Wis 9 (–1)
+Cha 8 (–1)
+Alignment neutral evil
+Languages Common, Goblin
+TRAITS
+Bushwhacker: During the first round of combat, the goblin has advantage on attack rolls against any target that has a lower initiative.
+Sneaky: The goblin can attempt to hide at the end of a move without using an action.
+Stealthy +5: The goblin gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Melee Attack—Mace: +4 to hit (reach 5 ft.; one creature). Hit: 2 (1d6 – 1) bludgeoning damage (minimum 1 damage).
+Ranged Attack—Shortbow: +5 to hit (range 80 ft./320 ft.; one creature). Hit: 4 (1d6 + 1) piercing damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Goblin Leader (Boss)
+Small Humanoid (Goblinoid)
+Armor Class 15 (studded leather)
+Hit Points 18 (4d6 + 4)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 11 (+0)
+Dex 15 (+2)
+Con 13 (+1)
+Int 11 (+0)
+Wis 9 (–1)
+Cha 13 (+1)
+Alignment neutral evil
+Languages Common, Goblin
+TRAITS
+Bushwhacker: During the first round of combat, the goblin has advantage on attack rolls against any target that has a lower initiative.
+Sneaky: The goblin can attempt to hide at the end of a move without using an action.
+Stealthy +5: The goblin gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Melee Attack—Short Sword: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d6) piercing damage.
+Ranged Attack—Shortbow: +7 to hit (range 80 ft./320 ft.; one creature). Hit: 5 (1d6 + 2) piercing damage.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Golem, Flesh
+Medium Construct
+Armor Class 9
+Hit Points 57 (6d8 + 30); see Traits below
+Speed 30 ft.
+Senses darkvision 50 ft.
+Str 19 (+4)
+Dex 9 (–1)
+Con 20 (+5)
+Int 3 (–4)
+Wis 10 (+0)
+Cha 1 (–5)
+Alignment neutral
+Languages understands Common
+TRAITS
+Berserk: While the golem is in combat, roll a d6 at the start of each of the golem’s turns. If the result is 6, the golem goes berserk until the end of the encounter. On its turn, a berserk golem attacks the nearest creature or some object smaller than itself if no creature is within reach, and it deals 5 extra bludgeoning damage when it hits with a melee attack.
+The berserk golem’s creator can, if it is within 60 feet of the golem and can be seen and heard by the golem, calm it by speaking firmly and persuasively, which requires an action and a DC 16 Charisma check. If the check succeeds, the golem is no longer berserk, although it may go berserk again.
+Immunities: The golem is immune to nonmagical weapons except those made of adamantine, as well as disease, cold, lightning, poison, and psychic damage. It cannot be charmed, paralyzed, petrified, stunned, or put to sleep. It does not need to sleep, eat, or breathe.
+Whenever the golem would take lightning damage, it instead regains hit points equal to half the damage dealt.
+Magic Resistance: The golem has advantage on saving throws against magical effects.
+ACTIONS
+Multiattack: The golem makes two slam attacks.
+Melee Attack—Slam: +6 to hit (reach 5 ft.; one creature). Hit: 13 (2d8+ 4) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 7 XP 1,320
+Golem, Stone
+Large Construct
+Armor Class 17
+Hit Points 105 (10d10 + 50); see Traits below
+Speed 20 ft.
+Senses darkvision 100 ft.
+Str 24 (+7)
+Dex 9 (–1)
+Con 20 (+5)
+Int 3 (–4)
+Wis 11 (+0)
+Cha 1 (–5)
+Alignment unaligned
+Languages understands Common
+TRAITS
+Immunities: The golem is immune to nonmagical weapons except those made of adamantine, as well as disease, cold, fire, lightning, poison, and psychic damage. It cannot be charmed, frightened, paralyzed, petrified, stunned, or put to sleep. It does not need to sleep, eat, or breathe.
+Magic Resistance: The golem has advantage on saving throws against magical effects.
+ACTIONS
+Multiattack: The golem makes two slam attacks.
+Melee Attack—Slam: +7 to hit (reach 5 ft.; one creature). Hit: 25 (4d8 + 7) bludgeoning damage.
+Slow (Recharge 5–6): The golem chooses any number of creatures within 10 feet of it. Each target must make a DC 13 Constitution saving throw. Failed Save: The target’s speed is reduced by 10 feet for 1 minute. The speed reduction is cumulative with other effects that reduce the target’s speed.
+ENCOUNTER BUILDING
+Level 13 XP 9,360
+Gray Ooze
+Medium Ooze
+Armor Class 8
+Hit Points 30 (4d8 + 12); see Traits below
+Speed 10 ft.
+Senses blindsight 60 ft.
+Str 12 (+1)
+Dex 6 (–2)
+Con 16 (+3)
+Int 1 (–5)
+Wis 10 (+0)
+Cha 3 (–4)
+Alignment unaligned
+Languages —
+TRAITS
+Dissolve: Any nonmagical weapon that hits the ooze becomes damaged and takes a –1 penalty to subsequent damage rolls. This penalty is cumulative with multiple hits. If a damaged weapon’s penalty drops to –5, the weapon is destroyed. A damaged weapon costs half the weapon’s cost to repair; a destroyed weapon cannot be repaired. Nonmagical ammunition that hits the ooze is destroyed instantly.
+Formless: The ooze can squeeze through gaps that are at least 1 inch wide.
+Immunities: The ooze charmed, frightened, or knocked prone.
+Resistances: The ooze is resistant to acid, cold, and fire.
+Stealthy +5: The ooze gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Melee Attack—Slam: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d6) bludgeoning damage plus 7 (2d6) acid damage.
+REACTIONS
+Passive Threat: When a creature ends its turn next to the ooze and is unaware of it, the ooze makes a free slam attack against the triggering creature.
+ENCOUNTER BUILDING
+Level 4 XP 180
+Great Cat: Tiger
+Large Beast
+Armor Class 12
+Hit Points 37 (5d10 + 10)
+Speed 40 ft.
+Senses low-light vision
+Str 17 (+3)
+Dex 15 (+2)
+Con 14 (+2)
+Int 4 (–3)
+Wis 12 (+1)
+Cha 8 (–1)
+Alignment unaligned
+Languages —
+TRAITS
+Keen Senses: The tiger gains a +5 bonus to all checks to detect hidden creatures.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 10 (2d6 + 3) piercing damage.
+Melee Attack—Claw: +5 to hit (reach 5 ft.; one creature). Hit: 7 (1d8 + 3) slashing damage.
+Pounce: If the tiger moves at least 10 feet and ends its movement so that at least one creature is in its reach, it makes two claw attacks. If both attacks hit the same Large or smaller target, the target also falls prone, and the tiger can make a bite attack against it.
+ENCOUNTER BUILDING
+Level 4 XP 170
+Green Slime
+Medium Ooze (Hazard)
+Green slime is a dangerous, unintelligent variety of normal algae that forms in moist subterranean environments. Bright green, wet, and sticky, it clings to walls, floors, and ceilings in patches. This plant is a slow- growing hazard that feeds on flesh, plant matter, and metal.
+Detect: It takes a DC 10 Wisdom check to notice the green slime under normal conditions and a DC 12 Intelligence check to identify the hazard for what it is.
+Effect on Creatures: The slime can detect the air vibrations and temperature of living creatures. When it does, a sheet of it large enough to envelop the passing creature drops from its resting place onto the target. The target must make a DC 12 Dexterity saving throw to avoid the sheet, making the saving throw with disadvantage if the slime was unnoticed or not considered to be a hazard. On a failed save, the target takes 1d6 acid damage, and takes another 1d6 acid damage at the end of each of its turns during which it is still in contact with the slime.
+A creature that steps in a patch of green slime on the floor receives no saving throw to avoid taking damage.
+Effect on Objects: Against wood or metal, green slime deals 2d6 acid damage per round, dissolving about an inch thickness of material each round. Green slime does no harm to stone or glass.
+Countermeasures: Green slime can be scraped off or killed by taking 11 damage or more from weapons, cold, or fire. Dealing damage to the slime also deals half damage to the creature it is covering.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Griffon
+Large Beast
+Armor Class 12
+Hit Points 59 (7d10 + 21)
+Speed 30 ft., fly 80 ft.
+Senses darkvision 60 ft.
+Str 18 (+4)
+Dex 15 (+2)
+Con 16 (+3)
+Int 2 (–4)
+Wis 13 (+1)
+Cha 8 (–1)
+Alignment unaligned
+Languages —
+TRAITS
+Keen Senses: The griffon gains a +5 bonus to all checks to detect hidden creatures.
+ACTIONS
+Multiattack: The griffon makes one bite attack and one claws attack.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 8 (1d8 + 4) piercing damage.
+Melee Attack—Claws: +6 to hit (reach 5 ft.; one creature). Hit: 11 (2d6 + 4) slashing damage.
+ENCOUNTER BUILDING
+Level 5 XP 450
+Hag: Green Hag
+Medium Humanoid
+Armor Class 14
+Hit Points 36 (8d8)
+Speed 30 ft., swim 30 ft.
+Senses low-light vision
+Str 15 (+2)
+Dex 15 (+2)
+Con 10 (+0)
+Int 14 (+2)
+Wis 13 (+1)
+Cha 15 (+2)
+Alignment neutral evil
+Languages Common, Giant
+TRAITS
+Mimicry: The hag can imitate the sounds of common beasts and voices of humanoids, male or female, young or old. A creature hearing the imitated sounds can make a DC 16 Intelligence or Wisdom check to realize that they’re not genuine.
+ACTIONS
+Melee Attack—Claws: +6 to hit (reach 5 ft.; one creature). Hit: 11 (2d8 + 2) slashing damage.
+Melee Attack—Withering Grasp (Recharge 5–6): +6 to hit (reach 5 ft.; one creature). Hit: 7 (2d6) necrotic damage, and the target must make a DC 9 Constitution saving throw. Failed Save: The target has disadvantage on melee attack rolls, saving throws, and all Strength and Dexterity checks for 1 minute.
+Disguise Self: The hag assumes the illusory form of any Small or Medium humanoid and can maintain this illusion indefinitely. A DC 16 Intelligence or Wisdom check reveals that the creature is not what it appears to be, but not the hag’s true form. The hag can end the illusion at any time (no action required). The effect also ends when the hag is killed.
+Invisibility: The hag turns invisible until it attacks, casts a spell, or ends the effect. It can end the effect at any time without using an action.
+ENCOUNTER BUILDING
+Level 3 XP 130
+Customization Options
+Some green hags have the following action option.
+Spells: The hag casts one of the following spells: at will— mage hand, minor illusion; 1/day—burning hands, comprehend languages, phantasmal force, sleep. The hag uses Intelligence as its magic ability score, and the saving throw DC to resist its spells is 12.
+Harpy
+Medium Monstrosity
+Armor Class 13
+Hit Points 13 (3d8)
+Speed 15 ft., fly 40 ft.
+Str 10 (+0)
+Dex 13 (+1)
+Con 11 (+0)
+Int 7 (–2)
+Wis 10 (+0)
+Cha 8 (–1)
+Alignment chaotic evil
+Languages Common
+TRAITS
+Captivating: The harpy has advantage on attack rolls made against creatures it has charmed.
+ACTIONS
+Multiattack: The harpy makes a claws attack and a club attack.
+Melee Attack—Claws: +5 to hit (reach 5 ft.; one creature). Hit: 7 (2d4 + 2) slashing damage.
+Melee Attack—Club: +4 to hit (reach 5 ft.; one creature). Hit: 2 (1d4) bludgeoning damage.
+Luring Song: The harpy chooses a creature within 300 feet of it (other harpies and deafened creatures are immune). The target must make a DC 9 Wisdom saving throw. Failed Save: The target is charmed for 1 minute. While charmed by the harpy, the target must first move closer to the harpy. After that, it can use its action to break the charm (requiring a DC 9 Wisdom check). If the check succeeds, the charm effect ends.
+Once the target makes a successful saving throw or breaks the charm with a successful skill check, it is immune to the luring song of all harpies for the next 24 hours.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Hell Hound
+Medium Fiend
+Armor Class 12
+Hit Points 22 (4d8 + 4); see Traits below
+Speed 40 ft.
+Senses darkvision 60 ft.
+Str 14 (+2)
+Dex 12 (+1)
+Con 12 (+1)
+Int 6 (–2)
+Wis 13 (+1)
+Cha 6 (–2)
+Alignment lawful evil
+Languages understands Infernal
+TRAITS
+Immunity: The hound is immune to fire.
+Keen Senses: The hound gains a +5 bonus to all checks to detect hidden creatures.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 10 ft.; one creature). Hit: 5 (1d6 + 2) piercing damage plus 4 (1d8) fire damage.
+Fire Breath (Recharge 6): The hound breathes fire in a 15- foot cone. Each creature in the area must make a DC 12 Dexterity saving throw. Failed Save: 9 (2d8) fire damage.
+Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 3 XP 70
+Hobgoblin
+Medium Humanoid (Goblinoid)
+Armor Class 14 (ring mail)
+Hit Points 11 (2d8 + 2)
+Speed 25 ft.
+Senses darkvision 60 ft.
+Str 11 (+0)
+Dex 10 (+0)
+Con 12 (+1)
+Int 10 (+0)
+Wis 10 (+0)
+Cha 13 (+1)
+Alignment lawful evil
+Languages Common, Goblin
+TRAITS
+Steadfast: The hobgoblin cannot be frightened while it can see a friendly creature within 30 feet of it that also has this trait.
+ACTIONS
+Melee Attack—Longspear: +5 to hit (reach 10 ft.; one creature). Hit: 4 (1d8) piercing damage.
+Ranged Attack—Shortbow: +5 to hit (range 80 ft./320 ft.; one creature). Hit: 3 (1d6) piercing damage.
+Disciplined: The hobgoblin chooses a creature within its reach. The next attack roll made against that target by a friendly creature that also has this trait has advantage.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Hobgoblin Leader (Captain)
+Medium Humanoid (Goblinoid)
+Armor Class 16 (chain mail)
+Hit Points 27 (5d8 + 5)
+Speed 25 ft.
+Senses darkvision 60 ft.
+Str 14 (+2)
+Dex 12 (+1)
+Con 13 (+1)
+Int 12 (+1)
+Wis 10 (+0)
+Cha 16 (+3)
+Alignment lawful evil
+Languages Common, Goblin
+TRAITS
+Commander +2: Friendly creatures with the disciplined action that can see or hear the hobgoblin and are within 30 feet of it gain a +2 bonus to damage rolls. If multiple friendly creatures have the Commander trait, only the highest bonus applies.
+Steadfast: The hobgoblin cannot be frightened while it can see a friendly creature within 30 feet of it that also has this trait.
+ACTIONS
+Multiattack: The hobgoblin makes two longspear attacks or two shortbow attacks.
+Melee Attack—Longspear: +6 to hit (reach 10 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage.
+Ranged Attack—Shortbow: +5 to hit (range 80 ft./320 ft.; one creature). Hit: 4 (1d6 + 1) piercing damage.
+ENCOUNTER BUILDING
+Level 3 XP 90
+Horse
+Large Beast
+Armor Class 12
+Hit Points 13 (2d10 + 2)
+Speed 60 ft.
+Str 15 (+2)
+Dex 10 (+0)
+Con 12 (+1)
+Int 2 (–4)
+Wis 8 (–1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+ACTIONS
+Melee Attack—Hoof: +3 to hit (reach 5 ft.; one creature). Hit: 5 (1d6 + 2) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Human Berserker
+Medium Humanoid (Human)
+Armor Class 12 (hide armor)
+Hit Points 13 (2d8 + 4)
+Speed 30 ft.
+Str 14 (+2)
+Dex 11 (+0)
+Con 14 (+2)
+Int 8 (–1)
+Wis 7 (–2)
+Cha 10 (+0)
+Alignment chaotic neutral
+Languages Common
+TRAITS
+Rage +5: The berserker can take disadvantage on any melee attack roll to gain a +5 bonus to that attack’s damage roll.
+ACTIONS
+Melee Attack—Greatsword: +5 to hit (reach 5 ft.; one creature). Hit: 8 (1d12 + 2) slashing damage.
+ENCOUNTER BUILDING
+Level 2 XP 30
+Human Commoner
+Medium Humanoid (Human)
+Armor Class 10
+Hit Points 4 (1d8)
+Speed 30 ft.
+Str 10 (+0)
+Dex 10 (+0)
+Con 10 (+0)
+Int 10 (+0)
+Wis 10 (+0)
+Cha 10 (+0)
+Alignment any
+Languages Common
+TRAITS
+Pack Tactics: The commoner gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Club: +3 to hit (reach 5 ft.; one creature). Hit: 2 (1d4) bludgeoning damage.
+Ranged Attack—Rock: +3 to hit (range 20 ft./80 ft.; one creature). Hit: 2 (1d4) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Human War Chief
+Medium Humanoid (Human)
+Armor Class 17 (studded leather, shield)
+Hit Points 22 (4d8 + 4)
+Speed 30 ft.
+Str 14 (+2)
+Dex 14 (+2)
+Con 12 (+1)
+Int 11 (+0)
+Wis 11 (+0)
+Cha 12 (+1)
+Alignment any
+Languages Common
+TRAITS
+Commander +2: Friendly creatures with the disciplined action that can see or hear the war chief and are within 30 feet of it gain a +2 bonus to damage rolls. If multiple friendly creatures have the Commander trait, only the highest bonus applies.
+ACTIONS
+Multiattack: The war chief makes two long sword attacks.
+Melee Attack—Long Sword: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) slashing damage.
+Ranged Attack—Javelin: +5 to hit (range 30 ft./120 ft.; one creature). Hit: 5 (1d6 + 2) piercing damage.
+ENCOUNTER BUILDING
+Level 3 XP 120
+Human Warrior
+Medium Humanoid (Human)
+Armor Class 12 (leather)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+Str 12 (+1)
+Dex 12 (+1)
+Con 12 (+1)
+Int 10 (+0)
+Wis 11 (+0)
+Cha 10 (+0)
+Alignment any
+Languages Common
+ACTIONS
+Melee or Ranged Attack—Spear: +4 to hit (reach 5 ft. or ranged 20 ft./60 ft.; one creature). Hit: 4 (1d6 + 1) piercing damage.
+Disciplined: The warrior chooses a creature within its reach. The next attack roll made against that target by a friendly creature that also has the disciplined action has advantage.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Human Witch Doctor
+Medium Humanoid (Human)
+Armor Class 14 (studded leather)
+Hit Points 22 (4d8 + 4)
+Speed 30 ft.
+Str 10 (+0)
+Dex 12 (+1)
+Con 12 (+1)
+Int 11 (+0)
+Wis 12 (+1)
+Cha 14 (+2)
+Alignment any
+Languages Common
+ACTIONS
+Melee Attack—Quarterstaff: +4 to hit (reach 5 ft.; one creature). Hit: 5 (1d8 + 1) bludgeoning damage.
+Shocking Grasp: The witch doctor chooses one creature in its reach. The target must succeed on a DC 14 Dexterity saving throw. Otherwise, the target takes 4 (1d8) lightning damage, and it cannot take reactions until its next turn.
+Ray of Enfeeblement (2/day): The witch doctor chooses a creature within 50 feet. The target must make a DC 14 Dexterity save. Failed Save: 14 (4d6) necrotic damage, and, if the target’s hit point maximum is 25 or less, the target’s melee attacks deal only half damage, and the target has disadvantage on Strength and Dexterity checks and saving throws. This effect lasts for 1 minute.
+Light: The witch doctor touches an object, causing it to shed bright light in a 20-foot-radius sphere and dim light within 40 feet of the sphere. The light lasts for 1 hour or until the witch doctor uses this action again.
+Damage Resistance (1/day): The witch doctor touches a willing creature other than itself and chooses a damage type: acid, bludgeoning, cold, fire, lightning, piercing, necrotic, slashing, or thunder. The touched creature gains resistance against that damage type for 1 hour.
+ENCOUNTER BUILDING
+Level 3 XP 130
+Hydra
+Huge Monstrosity
+Armor Class 12
+Hit Points 80 (7d12 + 35)
+Speed 30 ft., swim 30 ft.
+Senses darkvision 60 ft.
+Str 17 (+3)
+Dex 12 (+1)
+Con 20 (+5)
+Int 2 (–4)
+Wis 10 (+0)
+Cha 9 (–1)
+Alignment unaligned
+Languages —
+TRAITS
+Aquatic: The hydra can breathe underwater, and being underwater imposes no penalty on its attack rolls or checks.
+Decapitation: If the hydra takes 15 or more damage from a single attack or effect, the attacker can choose to kill one of the hydra’s heads instead of dealing damage. When the hydra has no heads remaining, it dies.
+Reactive: The hydra can take any number of reactions.
+ACTIONS
+Multiattack: The hydra makes as many bite attacks as it has heads. (A hydra typically begins a fight with five heads.)
+Melee Attack—Bite: +5 to hit (reach 10 ft.; one creature). Hit: 8 (1d10 + 3) piercing damage.
+Kobold
+Small Humanoid (Kobold)
+Armor Class 11
+Hit Points 2 (1d6 – 1)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 7 (–2)
+Dex 12 (+1)
+Con 8 (–1)
+Int 8 (–1)
+Wis 7 (–2)
+Cha 8 (–1)
+Alignment neutral evil
+Languages Common, Draconic
+TRAITS
+Light Sensitivity: While in sunlight, the kobold has disadvantage on attack rolls.
+Pack Tactics: The kobold gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Dagger: +3 to hit (reach 5 ft.; one creature). Hit: 3 (1d4 + 1) piercing damage.
+Ranged Attack—Sling: +3 to hit (range 30 ft./120 ft.; one creature). Hit: 3 (1d4 + 1) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Regrow Heads (Recharge 5–6): If the hydra has fewer than five living heads, it grows two heads. The hydra then makes as many bite attacks as it has heads.
+The hydra cannot use this action if it has taken fire damage since its last turn.
+ENCOUNTER BUILDING
+Level 7 XP 1,050
+Kobold Alchemist
+Small Humanoid (Kobold)
+Armor Class 15 (studded leather)
+Hit Points 7 (2d6)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 8 (–1)
+Dex 15 (+2)
+Con 11 (+0)
+Int 14 (+2)
+Wis 9 (–1)
+Cha 12 (+1)
+Alignment neutral evil
+Languages Common, Draconic
+TRAITS
+Light Sensitivity: While in sunlight, the kobold has disadvantage on attack rolls.
+ACTIONS
+Melee Attack—Short Sword: +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d6 + 2) piercing damage.
+Alchemical Bombs: The kobold hurls a flask that creates a 20-foot-radius cloud in an area within 40 feet of it. The kobold chooses the effect from the options below, each of which can be used only once.
+Fire Bomb: Each creature in the area must make a DC 11 Dexterity saving throw. Failed Save: 4 (1d8) fire damage. Successful Save: Half damage.
+Glue Bomb: Each creature in the area must make a DC 11 Strength saving throw. Failed Save: The target is restrained. The target or another creature within reach of it can use an action to make a DC 11 Strength check; if the check succeeds, the effect on the target ends.
+Frenzy Bomb: Friendly creatures in the area gain advantage on melee attack rolls until the kobold’s next turn.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Kobold Dragonshield
+Small Humanoid (Kobold)
+Armor Class 16 (ring mail, shield)
+Hit Points 7 (2d6)
+Speed 25 ft.
+Senses darkvision 60 ft.
+Str 10 (+0)
+Dex 13 (+1)
+Con 11 (+0)
+Int 10 (+0)
+Wis 9 (–1)
+Cha 10 (+0)
+Alignment neutral evil
+Languages Common, Draconic
+TRAITS
+Light Sensitivity: While in sunlight, the kobold has disadvantage on attack rolls.
+Pack Tactics: The kobold gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Short Sword: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d6 + 1) piercing damage.
+REACTIONS
+Shield Block: The kobold imposes disadvantage on a melee or ranged attack that is against a creature within the kobold’s reach.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Kobold, Winged (Urd)
+Small Humanoid (Kobold)
+Armor Class 11
+Hit Points 3 (1d6)
+Speed 30 ft., fly 20 ft.
+Senses darkvision 60 ft.
+Str 9 (–1)
+Dex 13 (+1)
+Con 10 (+0)
+Int 8 (–1)
+Wis 7 (–2)
+Cha 8 (–1)
+Alignment neutral evil
+Languages Common, Draconic
+TRAITS
+Light Sensitivity: While in sunlight, the kobold has disadvantage on attack rolls.
+Pack Tactics: The kobold gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Spear: +3 to hit (reach 5 ft.; one creature). Hit: 2 (1d6 – 1) piercing damage (minimum 1 damage).
+Ranged Attack—Rock Bomb: +5 to hit (range 40 ft.; one creature, which the kobold must be directly above). Hit: 4 (1d6 + 1) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Kopru
+Medium Aberration
+Armor Class 12
+Hit Points 52 (8d8 + 16); see Traits below
+Speed 10 ft., swim 50 ft.
+Senses darkvision 100 ft.
+Str 15 (+2)
+Dex 14 (+2)
+Con 14 (+2)
+Int 11 (+0)
+Wis 10 (+0)
+Cha 15 (+2)
+Alignment neutral evil
+Languages Common, Deep Speech
+TRAITS
+Aquatic: The kopru can breathe underwater, and being underwater imposes no penalty on its attack rolls or checks.
+Resistances: The kopru is resistant to fire and psychic.
+ACTIONS
+Multiattack: The kopru makes one bite attack and one tailclaws attack.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 7 (2d4 + 2) piercing damage.
+Melee Attack—Tailclaws: +6 to hit (reach 5 ft.; one creature). Hit: 15 (3d8 + 2) slashing damage.
+Dominate Person (Recharge 6): The kopru chooses one living humanoid it can see within 50 feet of it. The target must make a DC 13 Wisdom saving throw. Failed Save:
+The kopru has access to all of the target’s thoughts and memories, and the target is charmed for 1 day or until the kopru or one of the kopru’s companions harms it, or until the kopru is killed. While charmed, the target must also obey the kopru’s commands. The kopru can have only one creature charmed at a time. If the charmed creature takes any damage, it can make a DC 13 Wisdom saving throw to end the effect.
+A creature remembers being charmed by the kopru. A creature that succeeds on its saving throw against this effect is immune to this kopru’s dominate person effect for 24 hours.
+ENCOUNTER BUILDING
+Level 6 XP 620
+Lich
+Medium Undead
+Armor Class 15
+Hit Points 85 (10d8 + 40); see Traits below
+Speed 30 ft.
+Senses darkvision 100 ft.
+Str 11 (+0)
+Dex 16 (+3)
+Con 18 (+4)
+Int 20 (+5)
+Wis 18 (+4)
+Cha 20 (+5)
+Alignment neutral evil
+Languages Abyssal, Common, Infernal
+TRAITS
+Immunities: The lich is immune to disease, necrotic, and poison. It cannot be charmed, frightened, paralyzed, polymorphed against its will, or put to sleep. It does not need to sleep, eat, or breathe.
+Phylactery: If destroyed, a lich re-forms in 1d10 days, appearing with all of its possessions in the nearest open space next to its phylactery.
+ACTIONS
+Multiattack: The lich makes two touch attacks.
+Melee Attack—Touch: +6 to hit (reach 5 ft.; one creature). Hit: 11 (2d10) cold damage and 5 (1d10) necrotic damage, and the target must make a DC 15 Constitution saving throw. Failed Save: The target is paralyzed for 1 minute but can use an action while paralyzed to make a DC 15 Constitution check. If the check succeeds, the effect ends.
+Spellcasting: The lich casts one of the following spells: at will—detect magic, disguise self, prestidigitation, shocking grasp; 1/day—charm person, cloudkill, fireball, ice storm, invisibility, lightning bolt, magic missile, mirror image, wall of fire. The lich uses Intelligence as its magic ability score, and the saving throw DC to resist its spells is 15.
+ENCOUNTER BUILDING
+Level 7 XP 1,830
+Customization Options
+Every lich is a unique individual, with its own spells and abilities as well as its own personality. You can give a lich additional traits or roll randomly on the table below to determine what additional traits and spellcasting ability it might possess.
+d100
+Customization
+01–16
+Add the Cold Aura trait (see below).
+17–32
+Add the Frightening Gaze trait (see below).
+33–48
+Add the Life Drain trait (see below).
+49–64
+Add the Turn Resistance trait (see below).
+65–80
+Add one of the traits below. Also, the lich casts
+spells as a 14th-level wizard.
+81–96
+Add one of the traits below. Also, the lich casts
+spells as a 17th-level wizard.
+97–00
+Add two of the traits below. Also, the lich casts
+spells as a 20th-level wizard.
+Cold Aura: Any creature that starts its turn within 10 feet of the lich takes 5 (1d10) cold damage.
+Frightening Gaze: A creature that starts its turn within line of sight of the lich must either avert its eyes or make a DC 15 Wisdom saving throw against fear (if the target is surprised, it cannot avert its eyes). A target that averts its eyes has disadvantage on attack rolls until the start of its next turn. Failed Save: The target is frightened for 1 minute. While frightened, the target must use its movement to move away from the lich. As an action, the frightened target can make a DC 15 Wisdom check to end this effect.
+Life Drain: When a lich makes a lich touch attack and hits, the target's hit point maximum decreases by the same amount as the damage dealt by the attack. The target's hit point maximum returns to normal after its next long rest.
+A creature whose hit point maximum is reduced to 0 by this attack dies.
+Turn Resistance: A lich's hit points are doubled for the purpose of resisting turn undead effects.
+Lizard, Giant
+Medium Beast
+Armor Class 12
+Hit Points 13 (2d8 + 4)
+Speed 30 ft.
+Str 16 (+3)
+Dex 12 (+1)
+Con 14 (+2)
+Int 2 (–4)
+Wis 12 (+1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Diverse: Giant lizards come in many varieties. As a result, the DM can customize a giant lizard by choosing one or more optional traits and actions (see sidebar) to best reflect the nature of the creature.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 7 (1d8 + 3) piercing damage.
+ENCOUNTER BUILDING
+Level 2
+XP 30
+Level 2
+XP 40 with poisonous bite
+Level 2
+XP 60 with clamping jaws
+Customization Options
+Some giant lizards have one or more of these traits.
+Hold Breath: The giant lizard can hold its breath ten times longer than normal, and being underwater imposes no penalty on its attack rolls or checks. (Giant lizards that have this trait also have a swim speed of 30 ft.)
+Keen Senses: The giant lizard gains a +5 bonus to all checks to detect hidden creatures.
+Stealthy +5: The giant lizard gains a +5 bonus to all checks to avoid detection.
+Spider Climb: The giant lizard can climb on smooth walls and upside down on horizontal surfaces. (Giant lizards with this trait also have a climb speed of 30 ft.)
+Some giant lizards have one of these action options, replacing the normal bite attack.
+Melee Attack—Clamping Jaws: +5 to hit (reach 5 ft.; one creature). Hit: 12 (2d8 + 3) piercing damage, and the target is grappled. While the lizard has a creature grappled, the lizard can bite only that creature but has advantage when it does so.
+Melee Attack—Poisonous Bite: +5 to hit (reach 5 ft.; one creature). Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 10 Constitution saving throw. Failed Save: 7 (2d6) poison damage.
+For example, a crocodile is a giant lizard that has the Hold Breath trait and the clamping jaws melee attack.
+Lizardfolk
+Medium Humanoid (Lizardfolk)
+Armor Class 12
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+Str 13 (+1)
+Dex 10 (+0)
+Con 13 (+1)
+Int 7 (–2)
+Wis 11 (+0)
+Cha 8 (–1)
+Alignment neutral
+Languages Draconic
+TRAITS
+Hold Breath: The lizardfolk can hold its breath ten times longer than normal, and being underwater imposes no penalty on its attack rolls or checks.
+ACTIONS
+Multiattack: The lizardfolk makes one bite attack and one claws attacks.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature) Hit: 4 (1d6 + 1) piercing damage.
+Melee Attack—Claws: +5 to hit (reach 5 ft.; one creature) Hit: 6 (2d4 + 1) slashing damage.
+ENCOUNTER BUILDING
+Level 2 XP 30
+Customization Options
+Some lizardfolk employ shields (AC 14), stone greatclubs, and blowguns, using the following action options.
+Multiattack: The lizardfolk makes two greatclub attacks.
+Melee Attack—Greatclub: +5 to hit (reach 5 ft.; one creature) Hit: 5 (1d8 + 1) bludgeoning damage.
+Ranged Attack—Blowgun: +5 to hit (range 50 ft./150 ft.; one creature) Hit: 2 (1d4) piercing damage, and the target must make a DC 9 Constitution saving throw. Failed Save: 7 (2d6) poison damage.
+Lizardfolk Leader (King/Queen)
+Medium Humanoid (Lizardfolk)
+Armor Class 13
+Hit Points 45 (7d8 + 14)
+Speed 30 ft.
+Str 16 (+3)
+Dex 14 (+2)
+Con 15 (+2)
+Int 9 (–1)
+Wis 9 (–1)
+Cha 12 (+1)
+Alignment neutral evil
+Languages Draconic
+TRAITS
+Hold Breath: The lizardfolk can hold its breath ten times longer than normal, and being underwater imposes no penalty on its attack rolls or checks.
+ACTIONS
+Multiattack: The lizardfolk makes one bite attack and one claws attacks, or two trident attacks.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature) Hit: 6 (1d6 + 3) piercing damage.
+Melee Attack—Claws: +5 to hit (reach 5 ft.; one creature) Hit: 8 (2d4 + 3) slashing damage.
+Melee Attack—Trident: +5 to hit (reach 5 ft.; one creature) Hit: 7 (1d8 + 3) piercing damage.
+ENCOUNTER BUILDING
+Level 4 XP 210
+Lycanthrope: Werewolf
+Medium Humanoid (Shapechanger)
+Armor Class 12
+Hit Points 22 (4d8 + 4); see Traits below
+Speed 30 ft.
+Str 15 (+2)
+Dex 15 (+2)
+Con 12 (+1)
+Int 10 (+0)
+Wis 11 (+0)
+Cha 8 (–1)
+Alignment chaotic evil
+Languages Common (cannot speak in wolf form)
+TRAITS
+Keen Senses: The werewolf gains a +5 bonus to all checks to detect hidden creatures.
+Resistance: The werewolf is resistant to nonmagical weapons except those made of silver.
+ACTIONS
+Melee Attack—Bite (wolf and hybrid forms only): +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage, and the target must make a DC 10 Constitution saving throw. Failed Save: The target is cursed with lycanthropy.
+Melee Attack—Claws (hybrid form only): +5 to hit (reach 5 ft.; one creature). Hit: 11 (2d6 + 4) slashing damage.
+Melee Attack—Short Sword (humanoid and hybrid forms only): +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d6 + 2) piercing damage.
+Change Shape: The werewolf polymorphs into a Medium wolf-humanoid hybrid or a Medium wolf and can remain in this from for up to 24 hours.
+While in hybrid form, it can make bite and claw attacks only. While in wolf form, it can make bite attacks only, and its speed becomes 40 feet. In both forms, the werewolf gains low-light vision.
+The werewolf reverts to its natural form when killed.
+ENCOUNTER BUILDING
+Level 4 XP 150
+Manticore
+Large Monstrosity
+Armor Class 12
+Hit Points 51 (6d10 + 18)
+Speed 30 ft., fly 50 ft.
+Senses darkvision 60 ft.
+Str 17 (+3)
+Dex 15 (+2)
+Con 17 (+3)
+Int 5 (–3)
+Wis 12 (+1)
+Cha 9 (–1)
+Alignment lawful evil
+Languages Common
+ACTIONS
+Multiattack: The manticore makes two claw attacks and one bite attack, or three tail spike attacks. The targets of these tail spike attacks must be within 30 feet of each other.
+Melee Attack—Claw: +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d4 + 3) slashing damage.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d6 + 3) piercing damage.
+Ranged Attack—Tail Spike: +5 to hit (range 100 ft./200 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage. Special: The manticore has 24 tail spikes. It regrows tail spikes at the rate of one per hour.
+ENCOUNTER BUILDING
+Level 5 XP 340
+Medusa
+Medium Monstrosity
+Armor Class 12
+Hit Points 33 (6d8 + 6)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 10 (+0)
+Dex 15 (+2)
+Con 12 (+1)
+Int 12 (+1)
+Wis 13 (+1)
+Cha 15 (+2)
+Alignment lawful evil
+Languages Common
+TRAITS
+Petrifying Gaze: A living creature that starts its turn within 30 feet of the medusa and can see the medusa must either avert its eyes or make a DC 12 Constitution saving throw against petrification (if the target is surprised, it cannot avert its eyes). A target that averts its eyes has disadvantage on attack rolls until the start of its next turn. Failed Save: The target is restrained. The target can use its action to make a DC 12 Constitution check. If the check fails or is not made, the target turns to stone permanently.
+A medusa can be affected by its own gaze if it sees its own eyes reflected on a polished surface that’s within 30 feet of it and in an area of bright light.
+ACTIONS
+Multiattack: The medusa makes one snake hair attack and one short sword attack, or two longbow attacks.
+Melee Attack—Snake Hair: +5 to hit (reach 5 ft.; one creature). Hit: 2 (1d4) piercing damage, and the target must make a DC 12 Constitution saving throw. Failed Save: 7 (2d6) poison damage.
+Melee Attack—Short Sword: +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d6 + 2) piercing damage.
+Ranged Attack—Longbow: +5 to hit (range 150 ft./600 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage.
+ENCOUNTER BUILDING
+Level 4 XP 140
+Mimic
+Medium Monstrosity (Shapechanger)
+Armor Class 12
+Hit Points 45 (7d8 + 14)
+Speed 15 ft.
+Senses darkvision 50 ft.
+Str 17 (+3)
+Dex 12 (+1)
+Con 15 (+2)
+Int 4 (–3)
+Wis 13 (+1)
+Cha 8 (–1)
+Alignment neutral
+Languages — (see Encounter Building)
+TRAITS
+Adhesive: Any limb or weapon that touches a mimic becomes stuck to it. If a creature’s limb is stuck, the creature is restrained. It requires a DC 12 Strength check and an action to free a stuck weapon or limb, and once a creature frees all of its stuck limbs, it is no longer restrained. The organic adhesive in the mimic’s skin that causes this stickiness fails if the mimic dies.
+Immunity: The mimic cannot be knocked prone.
+ACTIONS
+Melee Attack—Slam: +5 to hit (reach 5 ft.; one creature). Hit: 7 (1d8 + 3) bludgeoning damage, and a Large or smaller target is grappled. The mimic can have up to two creatures grappled at a time.
+Change Shape: The mimic polymorphs into any simple Medium object and can remain in this form indefinitely. The mimic’s statistics do not change, but it loses its Ooze Stability trait. A DC 17 Intelligence or Wisdom check reveals that the creature is not what it appears to be, but not the mimic’s true form. The mimic reverts to its natural form when killed.
+ENCOUNTER BUILDING
+Level 4 XP 150
+Mimic Varieties
+Mimics come in two varieties. Most are carnivorous predators that crush prey to death and slowly consume it. Such mimics don’t speak. However, a few mimics are more intelligent (Intelligence 8 to 10) and can speak a language (usually Common). Such mimics are likely to be friendly to those who offer bribes of food or treasure. A smarter mimic sometimes leads others of the more feral variety.
+Mind Flayer
+Medium Aberration
+Armor Class 13
+Hit Points 44 (8d8 + 8)
+Speed 30 ft.
+Str 11 (+0)
+Dex 14 (+2)
+Con 12 (+1)
+Int 19 (+4)
+Wis 17 (+3)
+Cha 17 (+3)
+Alignment lawful evil
+Languages Common, Undercommon
+TRAITS
+Magic Resistance: The mind flayer has advantage on saving throws against magical effects.
+Telepathy: The mind flayer can communicate telepathically with any creature within 100 feet of it that can understand a language.
+ACTIONS
+Melee Attack—Tentacles: +5 to hit (reach 5 ft.; one creature). Hit: 9 (1d10 + 4) psychic damage, and a Medium or smaller target is grappled. The mind flayer can have only one creature grappled at a time.
+Melee Attack—Extract Brain: +7 to hit (reach 5 ft.; one creature grappled by the mind flayer). Hit: The mind flayer devours the target’s brain, and the creature dies unless it can survive without the brain.
+Mind Blast (Recharge 6): The mind flayer emits psychic energy in a 60-foot cone. Each creature in the area must make a DC 14 Intelligence saving throw. Failed Save: 13 (2d8 + 4) psychic damage, and the target is stunned for 1 minute. While stunned, the target can make a DC 14 Intelligence check on its turn (no action). If the check succeeds, the effect ends.
+Read Thoughts: The mind flayer chooses a creature it can see within 30 feet of it and attempts to read its mind. The chosen creature must succeed on a DC 13 Wisdom saving throw. Failed Save: The mind flayer can read the target’s surface thoughts for 1 minute. During that minute, the mind flayer also has advantage on Charisma checks made to deceive the target and Wisdom checks made to sense the target’s intentions.
+Sense Thoughts: The mind flayer becomes aware of the presence of creatures within 100 feet of it that have an Intelligence score of 5 or higher.
+ENCOUNTER BUILDING
+Level 5 XP 430
+Minotaur
+Large Monstrosity
+Armor Class 12
+Hit Points 52 (7d10 + 14)
+Speed 40 ft.
+Senses darkvision 60 ft.
+Str 18 (+4)
+Dex 11 (+0)
+Con 15 (+2)
+Int 6 (–2)
+Wis 16 (+3)
+Cha 9 (–1)
+Alignment chaotic evil
+Languages Common, Giant
+TRAITS
+Keen Senses: The minotaur gains a +5 bonus to all checks to detect hidden creatures.
+Labyrinthine Recall: The minotaur can perfectly recall any path it has traveled, and it is immune to the maze spell.
+Rage +10: The minotaur can take disadvantage on any melee attack roll to gain a +10 bonus to that attack’s damage roll.
+ACTIONS
+Melee Attack—Greataxe: +6 to hit (reach 5 ft.; one creature). Hit: 17 (2d12 + 4) slashing damage.
+Melee Attack—Gore: +6 to hit (reach 5 ft.; one creature). Hit: 13 (2d8 + 4) piercing damage, or 22 (4d8 + 4) piercing damage when using its charge action (see below).
+Charge: The minotaur combines its move and its action into a powerful charge. It moves in a straight line up to its speed and a minimum of 10 feet, then makes a gore attack. If that attack hits, the target must make a DC 12 Strength saving throw. Failed Save: The target is knocked prone.
+ENCOUNTER BUILDING
+Level 5 XP 320
+Monkey, Carnivorous
+Medium Beast
+Armor Class 12
+Hit Points 6 (1d8 + 2)
+Speed 30 ft., climb 30 ft.
+Senses low-light vision
+Str 14 (+2)
+Dex 14 (+2)
+Con 14 (+2)
+Int 4 (–3)
+Wis 12 (+1)
+Cha 7 (–2)
+Alignment unaligned
+Languages —
+ACTIONS
+Melee Attack—Slam: +4 to hit (reach 5 ft.; one creature). Hit: 5 (1d6 + 2) bludgeoning damage, or 9 (2d6 + 2) bludgeoning damage against a prone target.
+Pull Down: The monkey chooses a creature within its reach. That creature and the monkey engage in a Strength contest. Failed Contest: The creature is knocked prone.
+REACTIONS
+Assist: When another creature uses the pull down action against a target within the monkey’s reach, the saving throw DC increases by 2. The monkey loses its action on its next turn.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Mummy
+Medium Undead
+Armor Class 13
+Hit Points 27 (6d8); see Traits below
+Speed 20 ft.
+Senses darkvision 60 ft.
+Str 16 (+3)
+Dex 10 (+0)
+Con 11 (+0)
+Int 6 (–2)
+Wis 14 (+2)
+Cha 15 (+2)
+Alignment lawful evil
+Languages Common
+TRAITS
+Immunities: The mummy is immune to disease and poison. It cannot be charmed, frightened, paralyzed, stunned, or put to sleep. It does not need to eat, breathe, or sleep.
+Resistances: The mummy is resistant to bludgeoning, piercing, necrotic, and slashing damage.
+Vulnerability: The mummy is vulnerable to fire.
+ACTIONS
+Melee Attack—Rotting Touch: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d6 + 3) bludgeoning damage plus 7 (2d6) necrotic damage, and the target must make a DC 13 Constitution saving throw. Failed Save: The target is cursed with mummy rot. While cursed, it cannot regain hit points, and its hit point maximum drops by 10 for every 24 hours that elapse. If its hit point maximum drops to 0 or lower, the target dies. A remove curse spell cast on the target ends the curse.
+ENCOUNTER BUILDING
+Level 5 XP 370
+Ochre Jelly
+Large Ooze Armor Class 8
+Hit Points 59 (7d10 + 21); see Traits and Reactions below
+Speed 10 ft., climb 10 ft.
+Senses blindsight 60 ft.
+Str 15 (+2)
+Dex 6 (–2)
+Con 16 (+3)
+Int 1 (–5)
+Wis 3 (–4)
+Cha 3 (–4)
+Alignment unaligned
+Languages —
+TRAITS
+Formless: The jelly can squeeze through gaps that are at least 1 inch wide.
+Immunities: The jelly is immune to lightning and slashing damage (see also Reactions below). It cannot be charmed, frightened, or knocked prone.
+Resistance: The jelly is resistant to acid.
+Spider Climb: The jelly can climb on smooth walls and upside down on horizontal surfaces.
+ACTIONS
+Melee Attack—Slam: +5 to hit (reach 5 ft.; one creature). Hit: 9 (2d6 + 2) acid damage.
+REACTIONS
+Split: When an ochre jelly with 10 hit points or more takes lightning or slashing damage, it splits into two jellies, each with hit points equal to half of the jelly’s current hit points, rounded down.
+ENCOUNTER BUILDING
+Level 4 XP 180
+Ogre
+Large Giant
+Armor Class 11 (hide)
+Hit Points 32 (5d10 + 5)
+Speed 40 ft.
+Senses darkvision 60 ft.
+Str 18 (+4)
+Dex 8 (–1)
+Con 13 (+1)
+Int 5 (–3)
+Wis 7 (–2)
+Cha 7 (–2)
+Alignment chaotic evil
+Languages Common, Giant
+ACTIONS
+Melee Attack—Greatclub: +6 to hit (reach 5 ft.; one creature). Hit: 13 (2d8 + 4) bludgeoning damage.
+Ranged Attack—Javelin: +1 to hit (range 30 ft./120 ft.; one creature). Hit: 11 (2d6 + 4) piercing damage.
+ENCOUNTER BUILDING
+Level 4 XP 140
+Orc
+Medium Humanoid (Orc)
+Armor Class 13 (studded leather)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 14 (+2)
+Dex 10 (+0)
+Con 12 (+1)
+Int 7 (–2)
+Wis 11 (+0)
+Cha 10 (+0)
+Alignment chaotic evil
+Languages Common, Orc
+TRAITS
+Relentless: If an attack reduces the orc to 0 hit points or fewer but doesn’t kill it outright, it is not knocked unconscious or killed as a result until the end of its next turn, provided it still has 0 hit points or fewer.
+ACTIONS
+Melee Attack—Greataxe: +5 to hit (reach 5 ft.; one creature). Hit: 8 (1d12 + 2) slashing damage.
+Ranged Attack—Shortbow: +4 to hit (range 80 ft./320 ft.; one creature). Hit: 3 (1d6) piercing damage.
+ENCOUNTER BUILDING
+Level 3 XP 70
+Orc Leader (Chieftain)
+Medium Humanoid (Orc)
+Armor Class 16 (chain mail)
+Hit Points 32 (5d8 + 10)
+Speed 25 ft.
+Senses darkvision 60 ft.
+Str 16 (+3)
+Dex 11 (+0)
+Con 14 (+2)
+Int 11 (+0)
+Wis 11 (+0)
+Cha 12 (+1)
+Alignment chaotic evil
+Languages Common, Orc
+TRAITS
+Relentless: If an attack reduces the orc to 0 hit points or fewer but doesn’t kill it outright, it is not knocked unconscious or killed as a result until the end of its next turn, provided it still has 0 hit points or fewer.
+ACTIONS
+Multiattack: The orc makes two greataxe attacks or two shortbow attacks.
+Melee Attack—Greataxe: +5 to hit (reach 5 ft.; one creature). Hit: 9 (1d12 + 3) slashing damage.
+Ranged Attack—Shortbow: +2 to hit (range 80 ft./320 ft.; one creature). Hit: 3 (1d6) piercing damage.
+Battle Cry (1/Day): Friendly creatures with the Relentless trait that can see or hear the orc gain a +5 bonus to damage rolls until the orc’s next turn.
+ENCOUNTER BUILDING
+Level 5 XP 340
+Orog
+Medium Humanoid (Orc)
+Armor Class 14 (ring mail)
+Hit Points 19 (3d8 + 6)
+Speed 25 ft.
+Senses darkvision 60 ft.
+Str 16 (+3)
+Dex 10 (+0)
+Con 14 (+2)
+Int 10 (+0)
+Wis 11 (+0)
+Cha 10 (+0)
+Alignment chaotic evil
+Languages Common, Orc
+TRAITS
+Relentless: If an attack reduces the orog to 0 hit points or fewer but doesn’t kill it outright, it is not knocked unconscious or killed as a result until the end of its next turn, provided it still has 0 hit points or fewer.
+ACTIONS
+Melee Attack—Greataxe: +6 to hit (reach 5 ft.; one creature). Hit: 9 (1d12 + 3) slashing damage.
+ENCOUNTER BUILDING
+Level 3 XP 120
+Otyugh
+Large Aberration
+Armor Class 13
+Hit Points 84 (8d10 + 40)
+Speed 20 ft.
+Senses darkvision 100 ft.
+Str 18 (+4)
+Dex 11 (+0)
+Con 21 (+5)
+Int 6 (–2)
+Wis 13 (+1)
+Cha 6 (–2)
+Alignment neutral
+Languages —
+TRAITS
+Grappler: The otyugh has advantage on attack rolls against a creature grappled by it.
+Limited Telepathy: The otyugh can communicate telepathically with any creature within 100 feet of it that can understand a language. The extent of this communication is limited to simple ideas only.
+ACTIONS
+Multiattack: The otyugh makes one bite attack and two tentacle attacks.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 8 (1d8 + 4) piercing damage and 4 (1d8) poison damage.
+Melee Attack—Tentacle: +6 to hit (reach 10 ft.; one creature). Hit: 8 (1d8 + 4) bludgeoning damage, and a Medium or smaller target is grappled. The otyugh can have up to two creatures grappled at a time. While using a tentacle to grapple a creature, the otyugh can make that tentacle’s attack only against the grappled creature.
+Tentacle Slam: Each creature grappled by the otyugh must make a DC 11 Strength saving throw. Failed Save: 8 (1d8 + 4) bludgeoning damage, and the target is stunned until the end of its next turn. Successful Save: Half damage, and the target is not stunned.
+ENCOUNTER BUILDING
+Level 7 XP 1,030
+Owlbear
+Large Monstrosity
+Armor Class 12
+Hit Points 42 (5d10 + 15)
+Speed 30 ft.
+Str 18 (+4)
+Dex 11 (+0)
+Con 17 (+3)
+Int 3 (–4)
+Wis 12 (+1)
+Cha 8 (–1)
+Alignment unaligned
+Languages —
+TRAITS
+Grappler: The owlbear has advantage on attack rolls against a creature grappled by it.
+ACTIONS
+Multiattack: The owlbear makes two claw attacks and one bite attack. If the owlbear hits one Medium or smaller target with both claw attacks, the target is grappled and is restrained while grappled.
+Melee Attack—Claw: +6 to hit (reach 5 ft.; one creature). Hit: 7 (1d6 + 4) slashing damage.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 8 (1d8 + 4) piercing damage.
+ENCOUNTER BUILDING
+Level 5 XP 330
+Pegasus
+Large Beast
+Armor Class 14
+Hit Points 34 (4d10 + 12)
+Speed 60 ft., fly 120 ft.
+Senses low-light vision
+Str 18 (+4)
+Dex 15 (+2)
+Con 16 (+3)
+Int 10 (+0)
+Wis 13 (+1)
+Cha 13 (+1)
+Alignment chaotic good
+Languages understands Common and Elvish
+ACTIONS
+Multiattack: The pegasus makes a bite attack and two hoof attacks.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 6 (1d4 + 4) piercing damage.
+Melee Attack—Hoof: +6 to hit (reach 5 ft.; one creature). Hit: 7 (1d6 + 4) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 5 XP 300
+Phanaton
+Small Humanoid (Phanaton) Armor Class 11
+Hit Points 3 (1d6)
+Speed 25 ft., climb 25 ft., fly 40 ft. (see the Glide trait) Senses low-light vision
+Str 6 (–2)
+Dex 13 (+1)
+Con 10 (+0)
+Int 9 (–1)
+Wis 12 (+1)
+Cha 11 (+0)
+Alignment chaotic good
+Languages Common, Elvish
+TRAITS
+Glide: When the phanaton flies, it cannot ascend, and it must descend 5 feet for every 10 feet traveled horizontally.
+Stealthy +5: The phanaton gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Melee Attack—Bite: +4 to hit (reach 5 ft.; one creature). Hit: 1 piercing damage.
+Melee or Ranged Attack—Club: +4 to hit (reach 5 ft. or range 20 ft./80 ft.; one creature). Hit: 3 (1d4 + 1) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Customization Options
+Some phanatons have the following action option.
+Ranged—Net: +5 to hit (range 15 ft./30 ft.; one Medium or smaller creature). Hit: The target is restrained by the net. The restrained creature can escape by using an action to make a DC 11 Strength or Dexterity check; if the check succeeds, the creature is no longer restrained.
+Phanaton Warrior
+Small Humanoid (Phanaton) Armor Class 13 (leather)
+Hit Points 10 (3d6)
+Speed 25 ft., climb 25 ft., fly 40 ft. (see the Glide trait) Senses low-light vision
+Str 8 (–1)
+Dex 14 (+2)
+Con 10 (+0)
+Int 9 (–1)
+Wis 12 (+1)
+Cha 11 (+0)
+Alignment chaotic good
+Languages Common, Elvish
+TRAITS
+Glide: When the phanaton flies, it cannot ascend, and it must descend 5 feet for every 10 feet traveled horizontally.
+Stealthy +5: The phanaton gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Multiattack: The phanaton makes one bite attack and one dagger attack, or two dagger attacks.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 1 piercing damage.
+Melee or Ranged Attack—Dagger: +5 to hit (reach 5 ft. or range 20 ft./80 ft.; one creature). Hit: 4 (1d4 + 2) piercing damage.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Rakasta
+Medium Humanoid (Rakasta)
+Armor Class 13 (leather)
+Hit Points 5 (1d8 + 1)
+Speed 30 ft.
+Senses low-light vision
+Str 11 (+0)
+Dex 14 (+2)
+Con 12 (+1)
+Int 10 (+0)
+Wis 9 (–1)
+Cha 10 (+0)
+Alignment any
+Languages Common
+ACTIONS
+Melee Attack—Steel Claw: +4 to hit (reach 5 ft.; one creature). Hit: 4 (1d4 + 2) slashing damage.
+Ranged Attack—Javelin: +4 to hit (range 30 ft./120 ft.; one creature). Hit: 3 (1d6) piercing damage.
+Pounce: The rakasta moves up to its speed. If it moves at least 10 feet and ends its movement so that at least one creature is in its reach, it makes two claw attacks.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Rakasta Tiger-Rider
+Medium Humanoid (Rakasta)
+Armor Class 15 (studded leather)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+Senses low-light vision
+Str 12 (+1)
+Dex 14 (+2)
+Con 12 (+1)
+Int 10 (+0)
+Wis 9 (–1)
+Cha 10 (+0)
+Alignment any
+Languages Common
+ACTIONS
+Melee Attack—Steel Claw: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d4 + 2) slashing damage.
+Ranged Attack—Javelin: +5 to hit (range 30 ft./120 ft.; one creature). Hit: 4 (1d6 + 1) piercing damage.
+Pounce: The rakasta moves up to its speed. If it moves at least 10 feet and ends its movement so that at least one creature is in its reach, it makes two claw attacks.
+If the rakasta is mounted, it can use its own movement to pounce after its mount moves. In addition, if both of the rakasta’s claw attacks hit the same target, the target falls prone.
+ENCOUNTER BUILDING
+Level 2 XP 30
+Rakshasa
+Medium Fiend
+Armor Class 15
+Hit Points 110 (13d8 + 52); see Traits below
+Speed 40 ft.
+Str 22 (+6)
+Dex 18 (+4)
+Con 19 (+4)
+Int 18 (+4)
+Wis 15 (+2)
+Cha 20 (+5)
+Alignment lawful evil
+Languages Common
+TRAITS
+Spellcasting: The rakshasa casts one of the following spells: at will—detect magic, minor illusion, shocking grasp; 1/day—charm person, dimension door, dispel magic, dominate person, flesh to stone, haste, hold monster, invisibility, phantasmal force, sleep. The rakshasa uses Charisma as its magic ability score, and the saving throw DC to resist its spells is 15.
+ENCOUNTER BUILDING
+Level 12
+XP 5,710
+Blessed Vulnerability: The rakshasa drops to 0 hit points and is immediately destroyed when a creature scores a critical hit against it using a crossbow while under the effects of a bless spell.
+Magic Immunity: The rakshasa is immune to spells of 6th level or lower, and it makes saving throws against spells of 7th level or higher with advantage. A rakshasa can choose to be affected by its own spells.
+Resistance: The rakshasa is resistant to nonmagical weapons.
+ACTIONS
+Multiattack: The rakshasa makes one bite attack and two claw attacks.
+Melee Attack—Bite: +7 to hit (reach 5 ft.; one creature). Hit: 10 (1d8 + 6) piercing damage.
+Melee Attack—Claw: +7 to hit (reach 5 ft.; one creature). Hit: 9 (1d6 + 6) slashing damage.
+Disguise Self: The rakshasa assumes the illusory form of any Small or Medium humanoid and can maintain this illusion indefinitely. A DC 14 Intelligence or Wisdom check reveals that the creature is not what it appears to be, but not the rakshasa’s true form. A true seeing spell reveals the rakshasa’s natural form. The rakshasa can dispel the illusion at any time (no action required). The effect also ends when the rakshasa is killed.
+Read Thoughts: The rakshasa chooses a creature it can see within 30 feet of it and attempts to read its mind. The chosen creature must make a DC 14 Wisdom saving throw. Failed Save: The rakshasa can read the target’s surface thoughts for 1 minute. During that minute, the rakshasa also has advantage on Charisma checks made to deceive the target and Wisdom checks made to sense the target’s intentions.
+Rat, Cave
+Tiny Beast
+Armor Class 11
+Hit Points 2 (1d4)
+Speed 15 ft., climb 15 ft.
+Str 6 (–2)
+Dex 11 (+0)
+Con 10 (+0)
+Int 3 (–4)
+Wis 10 (+0)
+Cha 4 (–3)
+Alignment unaligned
+Languages —
+TRAITS
+Pack Tactics: The rat gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Bite: +4 to hit (reach 5 ft.; one creature). Hit: 1 piercing damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Rat, Dire
+Small Beast
+Armor Class 12
+Hit Points 5 (1d8 + 1)
+Speed 20 ft., climb 20 ft.
+Str 8 (–1)
+Dex 13 (+1)
+Con 12 (+1)
+Int 3 (–4)
+Wis 12 (+1)
+Cha 4 (–3)
+Alignment unaligned
+Languages —
+TRAITS
+Pack Tactics: The rat gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 3 (1d4 + 1) piercing damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Roc
+Gargantuan Beast
+Armor Class 13
+Hit Points 115 (10d12 + 50)
+Speed 20 ft., fly 80 ft.
+Str 24 (+7)
+Dex 15 (+2)
+Con 20 (+5)
+Int 3 (–4)
+Wis 13 (+1)
+Cha 9 (–1)
+Alignment unaligned
+Languages —
+TRAITS
+Keen Senses: The roc gains a +5 bonus to all checks to detect hidden creatures.
+ACTIONS
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 25 (4d8 + 7) slashing damage.
+Melee Attack—Talons: +6 to hit (reach 5 ft.; one creature). Hit: 21 (4d6 + 7) piercing damage, and a Huge or smaller target is grappled. The roc can grapple one Large or larger creature or up to two Medium or smaller creatures at a time.
+ENCOUNTER BUILDING
+Level 7 XP 1,210
+Roper
+Large Monstrosity
+Armor Class 11
+Hit Points 153 (18d10 + 54)
+Speed 10 ft., climb 10 ft.
+Senses darkvision 30 ft., tremorsense 50 ft.
+Str 18 (+4)
+Dex 8 (–1)
+Con 17 (+3)
+Int 7 (–2)
+Wis 16 (+3)
+Cha 6 (–2)
+Alignment neutral evil
+Languages Common, Terran
+TRAITS
+Hide in Plain Sight: The roper can hold itself so still that it appears to be a stalagmite, a stalactite, or another rock formation. A DC 17 Intelligence or Wisdom check reveals that the rock formation is, in fact, a roper.
+Spider Climb: The roper can climb on smooth walls and upside down on horizontal surfaces.
+Stealthy +8: The roper gains a +8 bonus to all checks to avoid detection.
+ACTIONS
+Multiattack: The roper makes two tendril attacks and one reel attack.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 22 (4d8 + 4) piercing damage.
+Melee Attack—Tendril: +6 to hit (reach 50 ft.; one creature). Hit: The target is grappled. While grappled, the target’s Strength is 1 (–5). The roper can grapple up to six creatures a time.
+Reel: The roper pulls a creature it is grappling up to 25 feet toward it in a straight line. If the grappled creature is adjacent to the roper at the end of this movement, the roper can make a bite attack with advantage against the grappled creature as a part of this same action.
+ENCOUNTER BUILDING
+Level 7 XP 1,190
+Rust Monster
+Medium Beast
+Armor Class 14
+Hit Points 16 (3d8 + 3)
+Speed 50 ft.
+Senses darkvision 60 ft.
+Str 13 (+1)
+Dex 17 (+3)
+Con 13 (+1)
+Int 2 (–4)
+Wis 13 (+1)
+Cha 8 (–1)
+Alignment unaligned
+Languages —
+TRAITS
+Rust: Each time the rust monster is struck by a metal weapon, and each time it hits a suit of armor or metal weapon with its antennae, the armor or weapon is rusted. If the armor or weapon is magical, its wearer or wielder can make a DC 11 Dexterity saving throw. Successful Save: The armor or weapon is not rusted.
+A rusted item takes a cumulative and permanent –1 penalty. In the case of armor, the penalty applies to its AC, and if penalties from rust reduce the target’s AC (ignoring Dexterity) to 10 or less, the armor is destroyed. In the case of a weapon, the penalty applies to damage rolls made with the weapon, and if the penalties from rust reduce the weapon’s damage result to 0 or less, the weapon is destroyed.
+ACTIONS
+Multiattack: The rust monster makes one antennae attack and one bite attack.
+Melee Attack—Antennae: +5 to hit (reach 5 ft.; one creature wearing metal armor or carrying a metal weapon). Hit: The target’s armor (01–75 on a d100) or weapon (76–00 on a d100) is rusted (see the Rust trait).
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d8 + 1) piercing damage.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Skeleton
+Medium Undead
+Armor Class 13 (armor scraps, shield)
+Hit Points 9 (2d8); see Traits below
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 11 (+0)
+Dex 10 (+0)
+Con 10 (+0)
+Int 6 (–2)
+Wis 8 (–1)
+Cha 3 (–4)
+Alignment lawful evil
+Languages understands Common
+TRAITS
+Immunities: The skeleton is immune to disease and poison. It cannot be charmed, frightened, or put to sleep. It does not need to sleep, eat, or breathe.
+Resistance: The skeleton is resistant to piercing damage.
+Vulnerability: The skeleton is vulnerable to bludgeoning damage.
+ACTIONS
+Melee Attack—Long Sword: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d8) slashing damage.
+Ranged Attack—Shortbow: +5 to hit (range 80 ft./320 ft.; one creature). Hit: 3 (1d6) piercing damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Snake, Giant
+Large Beast
+Armor Class 12
+Hit Points 22 (3d10 + 6)
+Speed 30 ft., climb 15 ft., swim 30 ft.
+Str 15 (+2)
+Dex 16 (+3)
+Con 14 (+2)
+Int 2 (–4)
+Wis 12 (+1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Diverse: Giant snakes come in many varieties. As a result, the DM can customize a giant snake by choosing one or more optional traits and actions (see sidebar) to best reflect the nature of the creature.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 7 (1d8 + 3) piercing damage.
+ENCOUNTER BUILDING
+Level 2 XP 50
+Level 3 XP 70 with poisonous bite
+Customization Options
+Some giant snakes have one or more of the following traits.
+Hold Breath: The snake can hold its breath ten times longer than normal, and being underwater imposes no penalty on its attack rolls or checks.
+Stealthy +5: The snake gains a +5 bonus to all checks to avoid detection.
+Some giant snakes have one or more of the following action options.
+Melee Attack—Constrict: +5 to hit (reach 5 ft.; one creature). The attack automatically hits a creature grappled by the snake. Hit: 6 (1d6 + 3) bludgeoning damage, and a Medium or smaller target is grappled. If the target is already grappled, it is instead pinned.
+The following attack replaces the snake’s bite attack.
+Melee Attack—Poisonous Bite: +5 to hit (reach 5 ft.; one creature). Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 10 Constitution saving throw. Failed Save: 7 (2d6) poison damage.
+For example, a giant sea snake is a giant snake that has all these options.
+Spider, Giant
+Large Beast
+Armor Class 12
+Hit Points 16 (3d10)
+Speed 30 ft., climb 30 ft.
+Senses darkvision 30 ft.
+Str 14 (+2)
+Dex 15 (+2)
+Con 10 (+0)
+Int 2 (–4)
+Wis 10 (+0)
+Cha 8 (–1)
+Alignment unaligned
+Languages —
+TRAITS
+Spider Climb: The spider can climb on smooth walls and upside down on horizontal surfaces. It ignores movement restrictions due to webbing, including that from a web spell.
+Stealthy +5: The spider gains a +5 bonus to all checks to avoid detection.
+ACTIONS
+Melee Attack—Bite: +4 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) piercing damage, and the target must make a DC 10 Constitution saving throw. Failed Save: 9 (2d8) poison damage.
+Ranged Attack—Web (Recharge 5–6): +4 to hit (range 30 ft./60 ft.; one creature). Hit: The target is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check to escape. The webbing has AC 12, and another creature can deal 5 fire or slashing damage to the webbing to end this effect; if fire damage is used, the restrained creature also takes the damage.
+ENCOUNTER BUILDING
+Level 2 XP 40
+Customization Options
+Some giant spiders are marine specimens with a swim speed equal to their normal speed and the following trait.
+Hold Breath: The spider can hold its breath ten times longer than normal, and being underwater imposes no penalty on its attack rolls or checks.
+Stirge
+Small Beast
+Armor Class 13
+Hit Points 3 (1d6)
+Speed 10 ft., fly 40 ft.
+Senses darkvision 60 ft.
+Str 4 (–3)
+Dex 14 (+2)
+Con 11 (+0)
+Int 2 (–4)
+Wis 7 (–2)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+ACTIONS
+Melee Attack—Bite: +4 to hit (reach 5 ft.; one living creature). The attack automatically hits a creature to which the stirge is attached. Hit: 2 (1d4) piercing damage, and the stirge attaches to the target.
+An attached stirge’s speed drops to 0, and it moves with the target. A stirge can be removed with a DC 10 Strength check as an action.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Treant
+Huge Plant
+Armor Class 14
+Hit Points 80 (7d12 + 35); see Traits below
+Speed 30 ft.
+Senses tremorsense 100 ft.
+Str 23 (+6)
+Dex 8 (–1)
+Con 21 (+5)
+Int 12 (+1)
+Wis 16 (+3)
+Cha 12 (+1)
+Alignment chaotic good
+Languages Common, Elvish, Sylvan
+TRAITS
+Hide in Plain Sight: The treant can hold itself so still that it appears to be a tree. A DC 18 Intelligence or Wisdom check reveals that the tree is, in fact, a treant.
+Resistance: The treant is resistant to bludgeoning damage.
+Siege Monster: The treant and its animated trees deal double damage to objects and structures.
+Vulnerability: The treant is vulnerable to fire.
+ACTIONS
+Melee Attack—Slam: +8 to hit (reach 15 ft.; one creature). Hit: 23 (5d6 + 6) bludgeoning damage.
+Ranged Attack—Rock: +3 to hit (range 100 ft./200 ft.; one creature). Hit: 19 (3d8 + 6) bludgeoning damage.
+Animate Trees (1/day): The treant animates one or two trees within 100 feet of it. These trees have the same statistics as a treant, with the following exceptions: They do not have the animate trees action, they have an Intelligence of 1, and they cannot be charmed. A tree remains animated until the treant dies or moves more than 100 feet away from it, or until the treant ends this effect as part of its action on its turn.
+ENCOUNTER BUILDING
+Level 7 XP 1,320
+Troglodyte
+Medium Humanoid (Troglodyte)
+Armor Class 10
+Hit Points 13 (2d8 + 4)
+Speed 30 ft.
+Senses darkvision 90 ft.
+Str 11 (+0)
+Dex 9 (–1)
+Con 14 (+2)
+Int 5 (–3)
+Wis 10 (+0)
+Cha 6 (–2)
+Alignment chaotic evil
+Languages Draconic
+TRAITS
+Light Sensitivity: While in sunlight, the troglodyte has disadvantage on attack rolls.
+Stealthy +5: The troglodyte gains a +5 bonus to all checks to avoid detection.
+Stench: When a creature without this trait starts its turn within 5 feet of the troglodyte, it has disadvantage on attack rolls and checks until it is no longer within 5 feet of a creature with this trait. This is a poison effect.
+ACTIONS
+Multiattack: The troglodyte makes one bite attack and one claws attack, or two greatclub attacks.
+Melee Attack—Bite: +4 to hit (reach 5 ft.; one creature). Hit: 2 (1d4) piercing damage.
+Melee Attack—Claws: +4 to hit (reach 5 ft.; one creature). Hit: 5 (2d4) slashing damage.
+Melee Attack—Greatclub: +4 to hit (reach 5 ft.; one creature). Hit: 4 (1d8) bludgeoning damage.
+Ranged Attack—Javelin: +6 to hit (range 30 ft./120 ft.; one creature). Hit: 6 (1d6 + 3) piercing damage.
+ENCOUNTER BUILDING
+Level 2 XP 30
+Weapon Use
+About half of the troglodytes in a given group use weapons. The others attack with their teeth and claws.
+Troll
+Large Giant
+Armor Class 11
+Hit Points 66 (7d10 + 28)
+Speed 30 ft., climb 20 ft.
+Senses darkvision 60 ft.
+Str 18 (+4)
+Dex 13 (+1)
+Con 18 (+4)
+Int 7 (–2)
+Wis 8 (–1)
+Cha 9 (–1)
+Alignment chaotic evil
+Languages Giant
+TRAITS
+Keen Senses: The troll gains a +5 bonus to all checks to detect hidden creatures.
+Regeneration: At the start of its turn, the troll regains 5 hit points. When it takes acid or fire damage, the troll’s regeneration doesn’t function on the troll’s next turn. The troll dies only if it starts its turn with 0 hit points or fewer and does not regenerate.
+ACTIONS
+Multiattack: The troll makes one bite attack and two claw attacks.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 8 (1d8 + 4) piercing damage.
+Melee Attack—Claw: +6 to hit (reach 5 ft.; one creature). Hit: 7 (1d6 + 4) slashing damage.
+ENCOUNTER BUILDING
+Level 6 XP 610
+Customization Options
+Some trolls have the following trait.
+Loathsome Limbs: If the troll takes 15 or more damage from a single attack or effect, roll a d20 and consult the table below.
+d20
+Result
+1–10
+No additional effect.
+11–18
+One of the troll’s limbs (determined randomly)
+is severed.
+19–20
+The troll is decapitated but not killed.
+The troll loses the attack appropriate to the lost body part until it has regenerated at least 15 hit points (at which point it sprouts a replacement) or until it uses an action to pick up and reattach its severed body part.
+A severed body part has AC 9, 5 hit points, a speed of 5 feet, and the troll's Regeneration trait. Severed limbs are considered blinded if the troll’s head cannot see them.
+Each severed part acts on the troll's initiative and can make a bite attack (if it’s the head) or a claw attack (if it’s a limb) as an action. If a severed body part regenerates 66 hit points or more, it becomes a whole new troll.
+Umber Hulk
+Large Monstrosity
+Armor Class 13
+Hit Points 66 (7d10 + 28)
+Speed 20 ft., burrow 20 ft.
+Senses darkvision 100 ft., tremorsense 50 ft.
+Str 20 (+5)
+Dex 13 (+1)
+Con 19 (+4)
+Int 11 (+0)
+Wis 11 (+0)
+Cha 13 (+1)
+Alignment chaotic evil
+Languages Terran
+TRAITS
+Confusing Gaze: A creature that starts its turn within 30 feet of the umber hulk that can see the umber hulk must either avert its eyes or make a DC 11 Wisdom saving throw (if the target is surprised, it cannot avert its eyes). A target that averts its eyes has disadvantage on attack rolls until the start of its next turn. Failed Save: The target is charmed until the end of its next turn. While it is charmed, it must use its action to make a melee attack or a ranged attack (its choice) against a randomly determined target within range.
+ACTIONS
+Multiattack: The umber hulk makes two claw attacks and one mandible bite attack.
+Melee Attack—Claw: +5 to hit (reach 5 ft.; one creature).
+Hit: 8 (1d6 + 5) slashing damage.
+Melee Attack—Mandible Bite: +5 to hit (reach 5 ft.; one creature). Hit: 14 (2d8 + 5) slashing damage.
+ENCOUNTER BUILDING
+Level 6 XP 820
+Vampire
+Medium Undead
+Armor Class 16
+Hit Points 68 (8d8 + 32); vulnerable to radiant Immunities charmed, necrotic, and poison Speed 30 ft., climb 20 ft.
+Senses darkvision 60 ft.
+Str 18 (+4)
+Dex 14 (+2)
+Con 18 (+4)
+Int 15 (+2)
+Wis 15 (+2)
+Cha 16 (+3)
+Alignment chaotic evil
+Languages Common
+TRAITS
+Immunities: The vampire is immune to disease, necrotic, poison, and nonmagical weapons (except those made of cold-forged iron). It cannot be charmed, paralyzed, or put to sleep. It does not need to breathe
+Mist Form: If the vampire is reduced to 0 hit points or fewer while not in its coffin, it polymorphs into a cloud of mist. While in mist form, the vampire does not regenerate, cannot take actions, and cannot be damaged (but is destroyed instantly by natural sunlight or a turn undead effect). It gains a fly speed of 20 feet and can squeeze through tiny cracks and openings. If a vampire in mist form starts its turn in its coffin, it returns to its normal form with 1 hit point.
+Regeneration: At the start of its turn, the vampire regains 1d10 hit points. If it takes radiant damage, the vampire’s regeneration does not function on its next turn.
+Spider Climb: The vampire can climb on smooth walls and upside down on horizontal surfaces.
+Vulnerability: The vampire is vulnerable to radiant damage and takes 10 radiant damage each time it starts its turn in direct sunlight.
+ACTIONS
+Multiattack: The vampire makes two claw attacks. If both claw attacks hit the same target, the vampire can make the following attack against the target.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature hit by both of the vampire’s claw attacks). Hit: 6 (1d4 + 4) piercing damage plus 10 (3d6) necrotic damage, the target’s hit point maximum is reduced by an amount equal to the necrotic damage dealt by this attack, and the vampire regains hit points equal to the amount of necrotic damage dealt.
+The reduction to the target’s maximum hit points lasts for 24 hours. A creature whose hit point maximum is
+reduced to 0 by this attack dies. A living creature that is killed by the vampire’s bite rises as a vampire under the original vampire’s control on the next night after burial or interment in a tomb.
+Melee Attack—Claw: +6 to hit (reach 5 ft.; one creature). Hit: 7 (1d6 + 4) slashing damage.
+Domination: The vampire chooses one living humanoid it can see within 10 feet of it. The target must make a DC 13 Wisdom saving throw. Failed Save: The target is charmed for 1 day or until the vampire or one of its allies harms it. While the target is charmed, the vampire can decide the target’s action and how it moves. On target’s next turn, it does as the vampire commands. A creature charmed by a vampire in this way receives the commands even if the vampire cannot see it. The charmed creature cannot take reactions.
+The vampire can have only one creature charmed at a time. If the charmed creature takes any damage, it can make a DC 13 Wisdom saving throw to end the effect.
+A creature charmed by this effect remembers being charmed. A creature that succeeds on its saving throw against this effect is immune to this vampire’s domination effect for 24 hours.
+ENCOUNTER BUILDING
+Level 7 XP 1,530
+Customization Options
+Some vampires have one or more of the following traits.
+Daylight Rest: The vampire is unconscious during daylight hours.
+Destroyed by Running Water: The vampire takes 25 acid damage whenever it enters an area of running water or starts its turn there.
+Stake to the Heart: A critical hit from a wooden weapon that deals piercing damage destroys the vampire. If the vampire is unconscious, any hit from such a weapon destroys it.
+Some vampires have one or more of the following action options.
+Change Shape: The vampire polymorphs into a Tiny bat and can remain in this from for up to 24 hours. While in bat form, it cannot make attacks and has a normal speed of 5 feet and a fly speed of 40 feet. Reverting to its true form requires an action.
+Summon Allies (1/day): The vampire summons 2d10 cave rats or 2d6 wolves, which appear within 30 feet of the vampire at the end of its turn.
+Wight
+Medium Undead
+Armor Class 14 (studded leather)
+Hit Points 27 (6d8); see Traits below
+Speed 30 ft.
+Senses darkvision 60 ft.
+Str 15 (+2)
+Dex 12 (+1)
+Con 10 (+0)
+Int 10 (+0)
+Wis 7 (–2)
+Cha 15 (+2)
+Alignment neutral evil
+Languages Common
+TRAITS
+Immunities: The wight is immune to disease, necrotic, and poison. It cannot be put to sleep and does not need to sleep, eat, or breathe.
+Resistance: The wight is resistant to nonmagical weapons.
+ACTIONS
+Multiattack: The wight makes two long sword attacks or two longbow attacks.
+Melee Attack—Energy Drain: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) necrotic damage, and the target’s hit point maximum is reduced by 5. This reduction lasts until the end of the target’s next long rest. A creature slain by this attack rises 24 hours later as a zombie under the wight’s command.
+A remove curse spell restores the target’s hit point maximum to its full amount.
+Melee Attack—Long Sword: +5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) slashing damage.
+Ranged Attack—Longbow: +4 to hit (range 150 ft./600 ft.; one creature). Hit: 5 (1d8 + 1) piercing damage.
+ENCOUNTER BUILDING
+Level 3 XP 130
+Wolf
+Medium Beast
+Armor Class 12
+Hit Points 11 (2d8 + 2)
+Speed 50 ft.
+Senses low-light vision
+Str 13 (+1)
+Dex 15 (+2)
+Con 13 (+1)
+Int 2 (–4)
+Wis 12 (+1)
+Cha 6 (–2)
+Alignment unaligned
+Languages —
+TRAITS
+Keen Senses: The wolf gains a +5 bonus to all checks to detect hidden creatures.
+Pack Tactics: The wolf gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 1d8 + 1 piercing damage. If the attack deals maximum damage, the wolf also knocks the target prone.
+ENCOUNTER BUILDING
+Level 1 XP 20
+Wolf, Dire
+Large Beast
+Armor Class 12
+Hit Points 19 (3d10 + 3)
+Speed 50 ft.
+Senses low-light vision
+Str 15 (+2)
+Dex 15 (+2)
+Con 13 (+1)
+Int 4 (–3)
+Wis 12 (+1)
+Cha 8 (–1)
+Alignment unaligned (see Variant: Worgs sidebar) Languages — (see Variant: Worgs sidebar)
+TRAITS
+Keen Senses: The wolf gains a +5 bonus to all checks to detect hidden creatures.
+Pack Tactics: The wolf gains a cumulative +1 bonus to attack rolls, to a maximum of +5, for each friendly creature that is within 5 feet of its target.
+ACTIONS
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 1d10 + 2 piercing damage, or 13 (2d10 + 2) piercing damage against a prone creature. If the attack deals maximum damage, the wolf also knocks the target prone.
+ENCOUNTER BUILDING
+Level 3 XP 70
+Variant: Worgs
+Worgs are neutral evil dire wolves of great cunning (Intelligence 6 to 8). They can speak Common and Goblin, and they are often found living with goblinoids.
+Wraith
+Medium Undead
+Armor Class 13
+Hit Points 20 (3d8 + 6); see Traits below
+Speed 60 ft., fly 60 ft.
+Senses darkvision 60 ft.
+Str 6 (–2)
+Dex 16 (+3)
+Con 14 (+2)
+Int 10 (+0)
+Wis 11 (+0)
+Cha 12 (+1)
+Alignment neutral evil
+Languages Common, Infernal
+TRAITS
+Immunity: The wraith is immune to disease, necrotic, and poison. It cannot be charmed, frightened, paralyzed, turned to stone, or put to sleep. It does not need to sleep, eat, or breathe.
+Incorporeal: When the wraith takes damage that is not force damage or radiant damage, or from an ethereal source, halve the damage. The wraith can willingly pass through solid objects, but it is blinded and cannot target anything but the object while doing so.
+Light Sensitivity: While in sunlight, the wraith has disadvantage on attack rolls.
+ACTIONS
+Melee Attack—Life Drain: +6 to hit (reach 5 ft.; one creature). Hit: 13 (2d8 + 4) necrotic damage, and the target must make a DC 11 Constitution saving throw.
+Failed Save: The target’s hit point maximum is reduced by the damage dealt by this attack. This reduction lasts 24 hours.
+A creature whose hit point maximum is reduced to 0 by this attack dies. The wraith can choose to raise the creature as a specter under its control, but a wraith can have no more than seven specters under its control at one time.
+A remove curse spell restores the target’s hit point maximum to its full amount.
+ENCOUNTER BUILDING
+Level 4 XP 240
+Wraith, Dread
+Medium Undead
+Armor Class 14
+Hit Points 78 (12d8 + 24); see Traits below
+Speed 60 ft., fly 60 ft.
+Senses blindsight 60 ft., darkvision 60 ft.
+Str 10 (+0)
+Dex 16 (+3)
+Con 15 (+2)
+Int 12 (+1)
+Wis 13 (+1)
+Cha 16 (+3)
+Alignment lawful evil
+Languages Common, Infernal
+TRAITS
+Detect Life +5: The wraith gains a +5 bonus on all checks to detect the presence of living creatures.
+Immunity: The wraith is immune to disease, necrotic, and poison. It cannot be charmed, frightened, paralyzed, turned to stone, or put to sleep. It does not need to sleep, eat, or breathe.
+Incorporeal: When the wraith takes damage that is not force damage or radiant damage, or from an ethereal source, halve the damage. The wraith can willingly pass through solid objects, but it is blinded and cannot target anything but the object while doing so.
+Light Sensitivity: While in sunlight, the wraith has disadvantage on attack rolls.
+ACTIONS
+Multiattack: The wraith makes two life drain attacks.
+Melee Attack—Life Drain: +8 to hit (reach 5 ft.; one creature). Hit: 36 (6d10 + 3) necrotic damage, and the target must make a DC 13 Constitution saving throw. Failed Save: The target’s hit point maximum is reduced by the amount of damage dealt by this attack. This reduction lasts 24 hours.
+A creature whose hit point maximum is reduced to 0 by this attack dies and immediately rises as a free-willed wraith under the DM’s control.
+A remove curse spell restores the target’s hit point maximum to its full amount.
+ENCOUNTER BUILDING
+Level 13
+XP 8,570
+Wyvern
+Large Dragon
+Armor Class 11
+Hit Points 66 (7d12 + 21)
+Speed 20 ft., fly 60 ft.
+Senses darkvision 60 ft.
+Str 19 (+4)
+Dex 10 (+0)
+Con 16 (+3)
+Int 5 (–3)
+Wis 12 (+1)
+Cha 4 (–3)
+Alignment unaligned
+Languages —
+TRAITS
+Keen Senses: The wyvern has a +5 bonus to checks to detect hidden creatures.
+ACTIONS
+Multiattack: The wyvern makes a bite attack and a sting attack.
+Melee Attack—Bite: +6 to hit (reach 5 ft.; one creature). Hit: 13 (2d8 + 4) piercing damage.
+Melee Attack—Sting: +6 to hit (reach 10 ft.; one creature). Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw. Failed Save: 17 (5d6) poison damage.
+ENCOUNTER BUILDING
+Level 6 XP 720
+Yuan-ti, Halfblood
+Medium Monstrosity
+Armor Class 15 (scale mail)
+Hit Points 37 (5d8 + 15)
+Immunities poison
+Speed 30 ft.
+Senses darkvision 50 ft.
+Str 14 (+2)
+Dex 12 (+1)
+Con 16 (+3)
+Int 12 (+1)
+Wis 13 (+1)
+Cha 15 (+2)
+Alignment lawful evil
+Languages Common, Yuan-ti
+TRAITS
+Speak with Snakes: All yuan-ti halfbloods can speak with snakes as though they shared a common language.
+ACTIONS
+A yuan-ti halfblood’s appearance determines what actions it can take in combat. To randomly determine a halfblood’s appearance, roll on the following table.
+d100 Halfblood Variety
+01–60 Snake’s head with a human torso and legs: It gains the melee attack—bite, melee attack—scimitar, and ranged attack—longbow actions. It also gains the following multiattack action.
+Multiattack: The yuan-ti makes one bite attack and one scimitar attack, or two longbow attacks.
+61–80 Human head, torso, and legs, with snakes for arms: It gains the melee attack—bite action and the following multiattack action.
+Multiattack: The yuan-ti makes three bite attacks. 81–90 Human head, torso, and legs, with a snake for a
+tail: It gains the melee attack—bite, melee attack—scimitar, and ranged attack—longbow actions. It also gains the following multiattack action.
+Multiattack: The yuan-ti makes one bite attack and one scimitar attack, one bite attack and one longbow attack, or two longbow attacks.
+91–00 Human head and torso, with a snake’s tail instead of legs: It gains a climb speed and a swim speed of 30 ft., as well as the melee attack—constrict, melee attack—scimitar, and ranged attack— longbow actions. It also gains the following multiattack action.
+Multiattack: The yuan-ti makes one constrict attack and one scimitar attack, one constrict attack and one longbow attack, or two longbow attacks.
+Melee Attack—Bite: +5 to hit (reach 5 ft.; one creature). Hit: 4 (1d4 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw. Failed Save: 7 (2d6) poison damage. Successful Save: Half damage.
+Melee Attack—Constrict: +5 to hit (reach 5 ft.; one creature). The attack automatically hits a creature grappled by the yuan-ti. Hit: 6 (1d8 + 2) bludgeoning damage, and a Medium or smaller target is grappled. The yuan-ti can grapple only one creature at a time.
+Melee Attack—Scimitar: +5 to hit (reach 5 ft.; one creature). Hit: 5 (1d6 + 2) slashing damage.
+Ranged Attack—Longbow: +5 to hit (range 150 ft./600 ft.; one creature). Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 12 Constitution saving throw.
+Failed Save: 7 (2d6) poison damage. Successful Save: Half damage.
+ENCOUNTER BUILDING
+Level 4 XP 270
+Customization Options
+Some yuan-ti halfbloods are spellcasters and gain the following action option.
+Spells: The yuan-ti casts one of the following spells: at will—disguise self, shocking grasp; 1/day—charm person, darkness, Melf’s acid arrow, sanctuary, suggestion. The yuan-ti uses Charisma as its magic ability score, and the saving throw DC to resist its spells is 12.
+Zombie
+Medium Undead
+Armor Class 8
+Hit Points 9 (2d8); see Traits below
+Speed 20 ft.
+Senses darkvision 60 ft.
+Str 15 (+2)
+Dex 6 (–2)
+Con 10 (+0)
+Int 5 (–3)
+Wis 7 (–2)
+Cha 5 (–3)
+Alignment neutral evil
+Languages understands Common
+TRAITS
+Immunities: The zombie is immune to disease and poison, and it cannot be frightened or put to sleep. It does not need to sleep, eat, or breathe.
+Zombie Fortitude: When the zombie takes damage that reduces it to 0 hit points or fewer, it must make a Constitution saving throw with a DC equal to 5 + the damage taken. Successful Save: The zombie is instead reduced to 1 hit point.
+ACTIONS
+Melee Attack—Slam: +4 to hit (reach 5 ft.; one creature).
+Hit: 4 (1d4 + 2) bludgeoning damage.
+ENCOUNTER BUILDING
+Level 1 XP 10
+Convert PDF to Word
+
